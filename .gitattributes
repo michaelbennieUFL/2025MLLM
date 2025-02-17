@@ -359,3 +359,5 @@ data/coco_ann2017/annotations/instances_train2017.json filter=lfs diff=lfs merge
 data/coco_ann2017/annotations/instances_val2017.json filter=lfs diff=lfs merge=lfs -text
 data/out/embeddings_prismatic_1.tsv filter=lfs diff=lfs merge=lfs -text
 data/out/embeddings_prismatic.tsv filter=lfs diff=lfs merge=lfs -text
+.psd filter=lfs diff=lfs merge=lfs -text
+.json filter=lfs diff=lfs merge=lfs -text
