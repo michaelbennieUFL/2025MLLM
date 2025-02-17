@@ -1,0 +1,1007 @@
+﻿label,filename,img_id,positive_sentence,negative_sentence
+0,10002456.jpg,1,Workers are operating the system.,The system is operated by workers.
+0,1000268201.jpg,2,A child climbs stairs.,Stairs are climbed by a child.
+0,1000523639.jpg,5,People are playing guitar.,The guitar is played by people.
+0,1000919630.jpg,6,Man holds a stuffed lion.,The stuffed animal is hold by a man.
+0,100207720.jpg,15,Woman holds a pan over a cake.,A pan is hold over a cake by a woman.
+0,1003420127.jpg,18,People are playing instruments.,Instruments are played by people.
+0,100577935.jpg,22,A man is using a gun,The gun is used by a man
+0,1006452823.jpg,23,Children are practicing writing.,Writing is practiced by children.
+0,100652400.jpg,24,A worker holds a flag.,The flag is held by a worker.
+0,100759042.jpg,29,A man holds a crane,The crane is held by a man.
+0,10082348.jpg,31,A man stands next to a mug,A mug is standed next by a man.
+0,10090841.jpg,33,A man holds a glass of beer.,A glass of beer is held by a man.
+0,1010087623.jpg,39,Workers pack candles into box.,Candles are packed by workers.
+0,10101477.jpg,40,A man wears blue and white outfit.,Blue and white outfit is worn by a man
+0,1012150929.jpg,46,Boy plays with a controller,A controller is played by a boy.
+0,1012328893.jpg,48,A group is having a picnic,The picnic is being held by a group.
+0,1014609273.jpg,53,People are climbing the pipe.,The pipe is being climbed by people
+0,101471792.jpg,54,A man is shielding his face.,His face is shielded by himself.
+0,1015712668.jpg,59,A man is riding a bike.,The bike is ridden by a man.
+0,1016887272.jpg,64,People climb a rock.,Rock is climbed by people.
+0,1018057225.jpg,66,A boy pushes the wheeler.,The wheeler is being pushed by a boy.
+0,1019077836.jpg,70,A dog chases the water.,The water is chased by a dog.
+0,1019604187.jpg,72,A dog prepares to catch the ball.,The ball is prepared to be caught by a dog.
+0,102030371.jpg,73,A man covers face with hand.,Face is covered by his hand.
+0,1022454428.jpg,80,A man cares for an infant,An infant is taken care by a man.
+0,102351840.jpg,83,A man is drilling through the ice.,Ice is drilled by a man.
+0,102455176.jpg,85,Climber climbing an ice wall,The ice wall is being climbed by climbers.
+0,102520526.jpg,87,A man shovels snow,Snow is shoveled by a man.
+0,102617084.jpg,89,Riders are wearing helmets.,Helmets are worn by riders.
+0,1026685415.jpg,90,A dog carries a toy.,The toy is carried by the dog.
+0,1027149103.jpg,92,The band is playing to a audience.,Music is played by the band.
+0,1028205764.jpg,94,A man and a boy are rowing a canoe,Canoe is rowing by a man and a woman.
+0,102851549.jpg,95,Boy shows a big smile.,A big smile is shown by a boy.
+0,1029802110.jpg,101,People are waving flags.,Flags are waived by people.
+0,103205630.jpg,109,Men enter the tent,The tent is entered by men.
+0,103306033.jpg,112,A woman is pushing stroller.,The stroller is pushed by a woman
+0,103328091.jpg,113,An man is selling fruits.,Fruits are sold by a man.
+0,1034985636.jpg,116,A man is playing a guitar.,The guitar is playing by a man.
+0,1040426962.jpg,126,A man and dog is cooking food.,The food is cooked by a man and a dog.
+0,1042359076.jpg,130,A man holds an object,The object is held by a man.
+0,1042590306.jpg,131,A man holds hand with a woman,A woman's hand is held by a man.
+0,104285082.jpg,132,A man is playing an instrument.,The instrument is played by a man.
+0,1044764620.jpg,136,A man is painting the wall.,The wall is paint by a man.
+0,1044798682.jpg,137,A man is cleaning the window.,The window is cleaned by a man
+0,104835889.jpg,147,A warrior takes a sword.,The sword is taken by a warrior.
+0,1052358063.jpg,155,A child is performing a skateboard trick,Skateboard trick is performed by a boy.
+0,1054620089.jpg,161,A woman carrying a handbag,A handbag is carried by a woman
+0,10602072.jpg,175,Girls climb the tree.,The tree is being climbed by girls.
+0,1065323785.jpg,189,Kids are riding bikes.,A bike is ridden by kids.
+0,1066252238.jpg,191,A boy is riding a bike,The bike is being ridden by a boy.
+0,106691539.jpg,193,A doctor is performing an operation,The operation is performed by a doctor.
+0,1067180831.jpg,194,Dog jumps to catch a toy.,The toy is being caught by a dog
+0,1068427675.jpg,196,A man is throwing the ball.,The ball is thrown by a man.
+0,106959209.jpg,197,A man rides the trough,The trough is being ridden by a man
+0,1071201387.jpg,199,A worker holds the sign.,The sign is hold by the worker.
+0,1073145694.jpg,201,A man is throwing a javelin,A javelin is thrown by a man.
+0,1076503761.jpg,212,A woman kicks a man.,A man is kicked by a woman
+0,107936523.jpg,218,Worker welds the fence,The fence is welded by the worker.
+0,107969134.jpg,219,A mother puts kid on shoulder.,A kid is put on shuolder by his mother.
+0,1080230428.jpg,222,People watch a match.,Players are watched by audience.
+0,108149945.jpg,223,Two people shoveled the snow away.,Snow is shoveled away by two people
+1,10002456.jpg,1,The system is operated by workers.,Workers are operating the system.
+1,1000268201.jpg,2,Stairs are climbed by a child.,A child climbs stairs.
+1,1000523639.jpg,5,The guitar is played by people.,People are playing guitar.
+1,1000919630.jpg,6,The stuffed animal is hold by a man.,Man holds a stuffed lion.
+1,100207720.jpg,15,A pan is hold over a cake by a woman.,Woman holds a pan over a cake.
+1,1003420127.jpg,18,Instruments are played by people.,People are playing instruments.
+1,100577935.jpg,22,The gun is used by a man,A man is using a gun
+1,1006452823.jpg,23,Writing is practiced by children.,Children are practicing writing.
+1,100652400.jpg,24,The flag is held by a worker.,A worker holds a flag.
+1,100759042.jpg,29,The crane is held by a man.,A man holds a crane
+1,10082348.jpg,31,A mug is standed next by a man.,A man stands next to a mug
+1,10090841.jpg,33,A glass of beer is held by a man.,A man holds a glass of beer.
+1,1010087623.jpg,39,Candles are packed by workers.,Workers pack candles into box.
+1,10101477.jpg,40,Blue and white outfit is worn by a man,A man wears blue and white outfit.
+1,1012150929.jpg,46,A controller is played by a boy.,Boy plays with a controller
+1,1012328893.jpg,48,The picnic is being held by a group.,A group is having a picnic
+1,1014609273.jpg,53,The pipe is being climbed by people,People are climbing the pipe.
+1,101471792.jpg,54,His face is shielded by himself.,A man is shielding his face.
+1,1015712668.jpg,59,The bike is ridden by a man.,A man is riding a bike.
+1,1016887272.jpg,64,Rock is climbed by people.,People climb a rock.
+1,1018057225.jpg,66,The wheeler is being pushed by a boy.,A boy pushes the wheeler.
+1,1019077836.jpg,70,The water is chased by a dog.,A dog chases the water.
+1,1019604187.jpg,72,The ball is prepared to be caught by a dog.,A dog prepares to catch the ball.
+1,102030371.jpg,73,Face is covered by his hand.,A man covers face with hand.
+1,1022454428.jpg,80,An infant is taken care by a man.,A man cares for an infant
+1,102351840.jpg,83,Ice is drilled by a man.,A man is drilling through the ice.
+1,102455176.jpg,85,The ice wall is being climbed by climbers.,Climber climbing an ice wall
+1,102520526.jpg,87,Snow is shoveled by a man.,A man shovels snow
+1,102617084.jpg,89,Helmets are worn by riders.,Riders are wearing helmets.
+1,1026685415.jpg,90,The toy is carried by the dog.,A dog carries a toy.
+1,1027149103.jpg,92,Music is played by the band.,The band is playing to a audience.
+1,1028205764.jpg,94,Canoe is rowing by a man and a woman.,A man and a boy are rowing a canoe
+1,102851549.jpg,95,A big smile is shown by a boy.,Boy shows a big smile.
+1,1029802110.jpg,101,Flags are waived by people.,People are waving flags.
+1,103205630.jpg,109,The tent is entered by men.,Men enter the tent
+1,103306033.jpg,112,The stroller is pushed by a woman,A woman is pushing stroller.
+1,103328091.jpg,113,Fruits are sold by a man.,An man is selling fruits.
+1,1034985636.jpg,116,The guitar is playing by a man.,A man is playing a guitar.
+1,1040426962.jpg,126,The food is cooked by a man and a dog.,A man and dog is cooking food.
+1,1042359076.jpg,130,The object is held by a man.,A man holds an object
+1,1042590306.jpg,131,A woman's hand is held by a man.,A man holds hand with a woman
+1,104285082.jpg,132,The instrument is played by a man.,A man is playing an instrument.
+1,1044764620.jpg,136,The wall is paint by a man.,A man is painting the wall.
+1,1044798682.jpg,137,The window is cleaned by a man,A man is cleaning the window.
+1,104835889.jpg,147,The sword is taken by a warrior.,A warrior takes a sword.
+1,1052358063.jpg,155,Skateboard trick is performed by a boy.,A child is performing a skateboard trick
+1,1054620089.jpg,161,A handbag is carried by a woman,A woman carrying a handbag
+1,10602072.jpg,175,The tree is being climbed by girls.,Girls climb the tree.
+1,1065323785.jpg,189,A bike is ridden by kids.,Kids are riding bikes.
+1,1066252238.jpg,191,The bike is being ridden by a boy.,A boy is riding a bike
+1,106691539.jpg,193,The operation is performed by a doctor.,A doctor is performing an operation
+1,1067180831.jpg,194,The toy is being caught by a dog,Dog jumps to catch a toy.
+1,1068427675.jpg,196,The ball is thrown by a man.,A man is throwing the ball.
+1,106959209.jpg,197,The trough is being ridden by a man,A man rides the trough
+1,1071201387.jpg,199,The sign is hold by the worker.,A worker holds the sign.
+1,1073145694.jpg,201,A javelin is thrown by a man.,A man is throwing a javelin
+1,1076503761.jpg,212,A man is kicked by a woman,A woman kicks a man.
+1,107936523.jpg,218,The fence is welded by the worker.,Worker welds the fence
+1,107969134.jpg,219,A kid is put on shuolder by his mother.,A mother puts kid on shoulder.
+1,1080230428.jpg,222,Players are watched by audience.,People watch a match.
+1,108149945.jpg,223,Snow is shoveled away by two people,Two people shoveled the snow away.
+2,10002456.jpg,1,Several men in hard hats are operating a giant pulley system,A giant pulley system is operating in the city by men
+2,1000268201.jpg,2,A child climbing a set of stairs in a pink dress,A set of stairs is being climbed by a child.
+2,1000366164.jpg,4,Two men in a kitchen cooking food on a stove.,Food is prepared on a stove by two men in a kitchen.
+2,1000919630.jpg,6,A man is sitting in chair and holding a large stuffed lion.,A large stuffed lion of a lion is held by a man sitting in a chair.
+2,1003428081.jpg,19,Instrumentists play clarinets and other instruments in a curtained room.,Clarinets and other instruments are played by instrumentalists.
+2,100577935.jpg,22,"A man using a tattoo gun with a goatee, a black shirt and white latex gloves.","A tattoo gun is used with by a man with a goatee, a black shirt and white latex gloves."
+2,1007205537.jpg,27,A man is pushing a cart in green pants and a blue shirt.,A cart is being pushed in by a man in green pants and a blue shirt.
+2,1007320043.jpg,28,A girl in pink climbs a rope bridge at the park.,A rope bridge at the park is climbed by a girl in pink.
+2,101001624.jpg,36,Conditions seem the details of a man dressed for the cold weather in a heavy jacket and red hat riding a bicycle in a suburban neighborhood covered in snow.,The details of a man dressed for the cold weather in a heavy jacket and red hat riding a bicycle in a suburban neighborhood are seem of by conditions.
+2,1012150929.jpg,46,A boy plays a video game with a controller in a McDonald's restaurant.,A video game is played by a boy with a controller in a McDonald's restaurant.
+2,101362133.jpg,51,The instructor kicks a piece of wood about to kick a piece of wood half while the karate instructor holds it.,A piece of wood is kicked about by an instructor.
+2,1014609273.jpg,53,A young boy empties a bottle over the railing of a balcony unto the man below.,A man climbing up a pipe towards the lower balcony getting liquid poured on him.
+2,1014785440.jpg,55,Men carrying children on their backs,Children are carried on backs by men.
+2,1016887272.jpg,64,Climbers climbing the rock in a row whilst another man stands holding the rope..,The rock is climbed by climbers in a row whilst another man stands holding the rope..
+2,1018057225.jpg,66,Boy in a black t-shirt and blue jeans is pushing a toy three wheeler around a small pool .,A toy three wheeler is being pushed in by a boy in a black t-shirt and blue jeans around a small pool .
+2,101859883.jpg,68,A woman is wearing a headscarf inside a building,A headscarf is worn by a woman inside a building.
+2,1021293940.jpg,75,Men hiking on the ground in a forest where snow is partially covering the ground,Men hiking on the ground in a forest where ground is partially covered by snow.
+2,102268204.jpg,81,Questioning the driver of a black wagon.,The driver of a black wagon is questioned by a man.
+2,102351840.jpg,83,A person drilling a hole in the snow,A hole is being drilled in by a person in the snow.
+2,1024138940.jpg,84,Dogs make a turn on a soft sand beach,A turn on a soft sand beach is made by dogs.
+2,102520526.jpg,87,A man shovels snow in black attire.,Snow is shovels in by a man in black attire.
+2,102617084.jpg,89,Riders wearing helmets and goggles in a snowy clearing.,Helmets and goggles are worn by riders in a snowy clearing.
+2,1026685415.jpg,90,The dog carries a green toy in his mouth.,A green toy is carried in the mouth by the dog.
+2,102851549.jpg,95,Boy shows a big smile in front of the camera.,A big smile is shown by a boy in front of the camera.
+2,103328091.jpg,113,A man wearing a red shirt to a grocery stand selling fruits,Fruits are sold by a man with a red shirt in a grocery stand.
+2,1034985636.jpg,116,A man is playing guitar in a show.,A guitar is played by a man in a show.
+2,1035019794.jpg,117,A person swinging a baseball bat in a green outfit and helmet,A baseball bat is swung by a person in a green outfit and helmet.
+2,10350842.jpg,118,A man wearing a life jacket in a small boat on a lake,A life jacket is wearing in by a man in a small boat on a lake.
+2,104180524.jpg,128,group crossing a bridge that connects a walking path to a trail of nature for tourists,a bridge that connects a walking path to a trail of nature is crossing by group
+2,1042590306.jpg,131,A man is holding the hand of a woman,The hand of a woman is held by a man.
+2,1044434135.jpg,135,A man rides a bicycle with a basket on a busy street.,The bicycle is ridden by a man on a busy street
+2,1044764620.jpg,136,A man is painting a brick wall on a ladder.,A brick wall is paint by a man on a ladder.
+2,105335409.jpg,158,A driver is telling people off the street.,People are being told off the street by a driver.
+2,1054620089.jpg,161,A woman carrying a multicolored handbag in jeans,A multicolored handbag is carried by a woman
+2,105493603.jpg,162,A couple wearing white sweaters are at a restaurant table.,White sweaters is wearing by a couple sitting at a restaurant table.
+2,1056359656.jpg,167,A girl reads a book about train rides on a train.,A book about train rides is read by a girl on the train.
+2,105806535.jpg,173,A man lounges a fruit in a wooden basin,A fruit is lounged in a wooden basin by a man
+2,1061887159.jpg,181,People doing various activities on the beach.,various activities are done by people on the beach 
+2,1067180831.jpg,194,A dog is jumping to catch a yellow and purple object in a low-cut yard.,A yellow and purple object is caught by a dog in a low-cut yard.
+2,1068427675.jpg,196,A man threw a bowling ball in an all black outfit.,A bowling ball is threw in by a man in an all black outfit.
+2,106959209.jpg,197,A man is riding a mule trough in a black shirt.,A mule trough is being ridden by a man in a black shirt
+2,107318069.jpg,202,People watching hot air balloons in the park,Hot air balloons in the park are watched in by people.
+2,1073444492.jpg,203,A man is using the telephone in a cluttered office.,The telephone is used in by a man in a cluttered office.
+2,1075716537.jpg,207,A boy rides a bike down a hill.,A bike is ridden down a hill by a boy.
+2,1075881101.jpg,210,The boy cleans the bubbles off his face.,The bubbles are cleaned off face by a boy.
+2,1079013716.jpg,216,People are preparing food in a restaurant kitchen.,Food is prepared in by people in a restaurant kitchen.
+2,108149945.jpg,223,Men dressed in bright orange snowsuits are shoveling snow off a railroad track .,Snow is shoveled off a railroad track by men dressing in bright orange snowsuits.
+2,1082252566.jpg,229,The dog is pushing a small Boston terrier with his face.,A small Boston terrier is push by a dog with his face.
+2,1082478946.jpg,231,Men in orange vests are working on the tracks for a trolley.,The tracks for a trolley are being worked on by men in orange vests.
+2,1082608010.jpg,232,A construction worker in a neon vest is working with electrical equipment.,The electrical equipment is being worked on by a construction worker in a neon vest.
+2,1083240835.jpg,233,A woman with red-brown hair and dark fingernails is applying mascara carefully.,Mascara is being applied carefully by a woman with red-brown hair and dark fingernails.
+2,1084040636.jpg,234,A white dog is resting its head on the tiled floor with its eyes open.,The tiled floor is being rested on by a white dog with its eyes open.
+2,1084104085.jpg,235,A woman in a yellow shirt and green shorts is climbing an artificial red wall.,The artificial red wall is being climbed by a woman in a yellow shirt and green shorts.
+2,1084527029.jpg,236,Everyone is admiring the beautiful scooters for their good mileage.,The beautiful scooters are being admired by everyone for their good mileage.
+2,108503753.jpg,237,The regional park police helicopter is approaching the landing site.,The landing site is being approached by the regional park police helicopter.
+2,10863862.jpg,238,An older construction worker in a yellow vest is climbing onto the scaffolding.,The scaffolding is being climbed onto by an older construction worker in a yellow vest.
+2,108656820.jpg,239,A group of people are standing or sitting in the hall.,The hall is being occupied by a group of people standing or sitting.
+2,1087168168.jpg,240,A young boy and a young girl are playing in the inflatable pool.,The inflatable pool is being played in by a young boy and a young girl.
+2,1087539207.jpg,241,Several children are playing on the Polaris vehicle outdoors.,The Polaris vehicle is being played on by several children outdoors.
+2,1088385559.jpg,242,An older woman is stir-frying vegetables in a home kitchen.,The vegetables are being stir-fried by an older woman in a home kitchen.
+2,1088767354.jpg,243,The girl in the salmon-colored bikini is standing next to the two young people.,The two young people are being stood next to by the girl in the salmon-colored bikini.
+3,10002456.jpg,1,A giant pulley system is operating in the city by men,Several men in hard hats are operating a giant pulley system
+3,1000268201.jpg,2,A set of stairs is being climbed by a child.,A child climbing a set of stairs in a pink dress
+3,1000366164.jpg,4,Food is prepared on a stove by two men in a kitchen.,Two men in a kitchen cooking food on a stove.
+3,1000919630.jpg,6,A large stuffed lion of a lion is held by a man sitting in a chair.,A man is sitting in chair and holding a large stuffed lion.
+3,1003428081.jpg,19,Clarinets and other instruments are played by instrumentalists.,Instrumentists play clarinets and other instruments in a curtained room.
+3,100577935.jpg,22,"A tattoo gun is used with by a man with a goatee, a black shirt and white latex gloves.","A man using a tattoo gun with a goatee, a black shirt and white latex gloves."
+3,1007205537.jpg,27,A cart is being pushed in by a man in green pants and a blue shirt.,A man is pushing a cart in green pants and a blue shirt.
+3,1007320043.jpg,28,A rope bridge at the park is climbed by a girl in pink.,A girl in pink climbs a rope bridge at the park.
+3,101001624.jpg,36,The details of a man dressed for the cold weather in a heavy jacket and red hat riding a bicycle in a suburban neighborhood are seem of by conditions.,Conditions seem the details of a man dressed for the cold weather in a heavy jacket and red hat riding a bicycle in a suburban neighborhood covered in snow.
+3,1012150929.jpg,46,A video game is played by a boy with a controller in a McDonald's restaurant.,A boy plays a video game with a controller in a McDonald's restaurant.
+3,101362133.jpg,51,A piece of wood is kicked about by an instructor.,The instructor kicks a piece of wood about to kick a piece of wood half while the karate instructor holds it.
+3,1014609273.jpg,53,A man climbing up a pipe towards the lower balcony getting liquid poured on him.,A young boy empties a bottle over the railing of a balcony unto the man below.
+3,1014785440.jpg,55,Children are carried on backs by men.,Men carrying children on their backs
+3,1016887272.jpg,64,The rock is climbed by climbers in a row whilst another man stands holding the rope..,Climbers climbing the rock in a row whilst another man stands holding the rope..
+3,1018057225.jpg,66,A toy three wheeler is being pushed in by a boy in a black t-shirt and blue jeans around a small pool .,Boy in a black t-shirt and blue jeans is pushing a toy three wheeler around a small pool .
+3,101859883.jpg,68,A headscarf is worn by a woman inside a building.,A woman is wearing a headscarf inside a building
+3,1021293940.jpg,75,Men hiking on the ground in a forest where ground is partially covered by snow.,Men hiking on the ground in a forest where snow is partially covering the ground
+3,102268204.jpg,81,The driver of a black wagon is questioned by a man.,Questioning the driver of a black wagon.
+3,102351840.jpg,83,A hole is being drilled in by a person in the snow.,A person drilling a hole in the snow
+3,1024138940.jpg,84,A turn on a soft sand beach is made by dogs.,Dogs make a turn on a soft sand beach
+3,102520526.jpg,87,Snow is shovels in by a man in black attire.,A man shovels snow in black attire.
+3,102617084.jpg,89,Helmets and goggles are worn by riders in a snowy clearing.,Riders wearing helmets and goggles in a snowy clearing.
+3,1026685415.jpg,90,A green toy is carried in the mouth by the dog.,The dog carries a green toy in his mouth.
+3,102851549.jpg,95,A big smile is shown by a boy in front of the camera.,Boy shows a big smile in front of the camera.
+3,103328091.jpg,113,Fruits are sold by a man with a red shirt in a grocery stand.,A man wearing a red shirt to a grocery stand selling fruits
+3,1034985636.jpg,116,A guitar is played by a man in a show.,A man is playing guitar in a show.
+3,1035019794.jpg,117,A baseball bat is swung by a person in a green outfit and helmet.,A person swinging a baseball bat in a green outfit and helmet
+3,10350842.jpg,118,A life jacket is wearing in by a man in a small boat on a lake.,A man wearing a life jacket in a small boat on a lake
+3,104180524.jpg,128,a bridge that connects a walking path to a trail of nature is crossing by group,group crossing a bridge that connects a walking path to a trail of nature for tourists
+3,1042590306.jpg,131,The hand of a woman is held by a man.,A man is holding the hand of a woman
+3,1044434135.jpg,135,The bicycle is ridden by a man on a busy street,A man rides a bicycle with a basket on a busy street.
+3,1044764620.jpg,136,A brick wall is paint by a man on a ladder.,A man is painting a brick wall on a ladder.
+3,105335409.jpg,158,People are being told off the street by a driver.,A driver is telling people off the street.
+3,1054620089.jpg,161,A multicolored handbag is carried by a woman,A woman carrying a multicolored handbag in jeans
+3,105493603.jpg,162,White sweaters is wearing by a couple sitting at a restaurant table.,A couple wearing white sweaters are at a restaurant table.
+3,1056359656.jpg,167,A book about train rides is read by a girl on the train.,A girl reads a book about train rides on a train.
+3,105806535.jpg,173,A fruit is lounged in a wooden basin by a man,A man lounges a fruit in a wooden basin
+3,1061887159.jpg,181,various activities are done by people on the beach ,People doing various activities on the beach.
+3,1067180831.jpg,194,A yellow and purple object is caught by a dog in a low-cut yard.,A dog is jumping to catch a yellow and purple object in a low-cut yard.
+3,1068427675.jpg,196,A bowling ball is threw in by a man in an all black outfit.,A man threw a bowling ball in an all black outfit.
+3,106959209.jpg,197,A mule trough is being ridden by a man in a black shirt,A man is riding a mule trough in a black shirt.
+3,107318069.jpg,202,Hot air balloons in the park are watched in by people.,People watching hot air balloons in the park
+3,1073444492.jpg,203,The telephone is used in by a man in a cluttered office.,A man is using the telephone in a cluttered office.
+3,1075716537.jpg,207,A bike is ridden down a hill by a boy.,A boy rides a bike down a hill.
+3,1075881101.jpg,210,The bubbles are cleaned off face by a boy.,The boy cleans the bubbles off his face.
+3,1079013716.jpg,216,Food is prepared in by people in a restaurant kitchen.,People are preparing food in a restaurant kitchen.
+3,108149945.jpg,223,Snow is shoveled off a railroad track by men dressing in bright orange snowsuits.,Men dressed in bright orange snowsuits are shoveling snow off a railroad track .
+3,1082252566.jpg,229,A small Boston terrier is push by a dog with his face.,The dog is pushing a small Boston terrier with his face.
+3,1082478946.jpg,231,The tracks for a trolley are being worked on by men in orange vests.,Men in orange vests are working on the tracks for a trolley.
+3,1082608010.jpg,232,The electrical equipment is being worked on by a construction worker in a neon vest.,A construction worker in a neon vest is working with electrical equipment.
+3,1083240835.jpg,233,Mascara is being applied carefully by a woman with red-brown hair and dark fingernails.,A woman with red-brown hair and dark fingernails is applying mascara carefully.
+3,1084040636.jpg,234,The tiled floor is being rested on by a white dog with its eyes open.,A white dog is resting its head on the tiled floor with its eyes open.
+3,1084104085.jpg,235,The artificial red wall is being climbed by a woman in a yellow shirt and green shorts.,A woman in a yellow shirt and green shorts is climbing an artificial red wall.
+3,1084527029.jpg,236,The beautiful scooters are being admired by everyone for their good mileage.,Everyone is admiring the beautiful scooters for their good mileage.
+3,108503753.jpg,237,The landing site is being approached by the regional park police helicopter.,The regional park police helicopter is approaching the landing site.
+3,10863862.jpg,238,The scaffolding is being climbed onto by an older construction worker in a yellow vest.,An older construction worker in a yellow vest is climbing onto the scaffolding.
+3,108656820.jpg,239,The hall is being occupied by a group of people standing or sitting.,A group of people are standing or sitting in the hall.
+3,1087168168.jpg,240,The inflatable pool is being played in by a young boy and a young girl.,A young boy and a young girl are playing in the inflatable pool.
+3,1087539207.jpg,241,The Polaris vehicle is being played on by several children outdoors.,Several children are playing on the Polaris vehicle outdoors.
+3,1088385559.jpg,242,The vegetables are being stir-fried by an older woman in a home kitchen.,An older woman is stir-frying vegetables in a home kitchen.
+3,1088767354.jpg,243,The two young people are being stood next to by the girl in the salmon-colored bikini.,The girl in the salmon-colored bikini is standing next to the two young people.
+4,1000268201.jpg,2,A little girl is climbing the stairs to her playhouse.,The stairs that is climbed by the girl were in her playhouse.
+4,1001545525.jpg,9,Two shirtless men in Germany are jumping over a rail at the same time.,A rail is being jumped over simultaneously by two shirtless men in Germany.
+4,1001573224.jpg,10,Sunlight streams through a window as five ballet dancers jump in a studio.,Five ballet dancers are being caught mid-jump in a dancing studio lit by sunlight through a window.
+4,1001633352.jpg,11,Three young men and a woman wearing sneakers leap in midair at the top of a staircase.,Sneakers are being worn by three young men and a woman as they leap in midair at the top of concrete stairs.
+4,1001773457.jpg,12,A black dog and a white dog with brown spots are staring at each other in the street.,Each dog is being stared at by the other in the street.
+4,1001896054.jpg,13,A man with reflective safety clothes and ear protection drives a John Deere tractor on the road.,A John Deere tractor is being driven on a road by a man wearing reflective safety clothes and ear protection.
+4,100197432.jpg,14,Some women stand in front of a bus with buildings in the background.,A bus with buildings behind it is being stood in front of by some women.
+4,100207720.jpg,15,A young woman with dark hair and glasses sifts white powder onto a cake.,White powder is being sifted onto a cake by a young woman with dark hair and glasses.
+4,1002674143.jpg,16,A small girl in the grass plays with finger paints in front of a white canvas showing a rainbow.,Finger paints are being played with by a small girl in the grass in front of a white canvas with a rainbow.
+4,1003163366.jpg,17,A man sleeps on a bench outside as a white and black dog sits beside him.,A bench is being slept on by a man while a white and black dog sits next to him.
+4,1003420127.jpg,18,"A group of adults sits on chairs arranged in a circle, playing musical instruments.",Chairs arranged in a circle are being sat on by a group of adults playing musical instruments.
+4,1003428081.jpg,19,Two women wearing glasses play clarinets while an elderly woman plays a stringed instrument.,Clarinets and a stringed instrument are being played by two women wearing glasses and an elderly woman.
+4,100444898.jpg,20,A person in gray stands alone on a structure outdoors in the dark.,A structure outdoors in the dark is being stood on by a person in gray.
+4,1005216151.jpg,21,A man in a white t-shirt looks toward the camera while a crowd surrounds him near a metro station.,A man in a white t-shirt is being surrounded by a crowd near a metro station as he looks toward the camera.
+4,100577935.jpg,22,A man with a goatee in a black shirt and white gloves uses a tattoo gun to place a tattoo on someone’s back.,A tattoo is being placed on someone’s back by a man with a goatee in a black shirt and white gloves.
+4,100759042.jpg,29,A young man in a jacket holding a toothpick with something on the end of it,A toothpick that was being held by a young man in a jacket had something on the end of it.
+4,10082348.jpg,31,A man is standing at a urinal with a coffee cup.,A urinal at which a man was standing was being accompanied by a coffee cup.
+4,100845130.jpg,32,Five people are walking with a multicolored sky in the background.,A multicolored sky in the background was being walked with by five people.
+4,1010087179.jpg,38,An older man working in a factory is not looking too excited about the photograph.,A photograph about which an older man working in a factory was not being too excited was being viewed
+4,10101477.jpg,40,"A man wearing a blue and white outfit, holding a broom, with traditional Asian architecture in the background.",A broom that was being held by a man in a blue and white outfit was accompanied by traditional Asian architecture in the background.
+4,1010470346.jpg,41,A man on a bicycle is watching a row of cars waiting to go through a checkpoint.,A row of cars waiting to go through a checkpoint was being watched by a man on a bicycle.
+4,101093029.jpg,43,A man in a blue shirt is driving a Segway type vehicle.,A Segway type vehicle that was being driven by a man in a blue shirt was in motion.
+4,1012150929.jpg,46,A little boy playing GameCube at a McDonald's.,A GameCube that was being played by a little boy was at a McDonald's .
+4,101362133.jpg,51,A young female student performing a downward kick to break a board held by her Karate instructor.,A board that was being held by her Karate instructor was being broken by a young female student performing a downward kick.
+4,1015712668.jpg,59,A man is riding his bike across the bridge that is over the river.,A bridge that is over the river and across which a bike was being ridden by a man was being crossed.
+4,10160966.jpg,60,A barefooted man wearing olive green shorts grilling hotdogs on a small propane grill while holding a blue plastic cup.,Hotdogs that were being grilled on a small propane grill by a barefooted man wearing olive green shorts and holding a blue plastic cup were cooking.
+4,101669240.jpg,63,A person wearing skis is looking at framed pictures set up in the snow.,Framed pictures that were set up in the snow were being looked at by a person wearing skis.
+4,1016887272.jpg,64,A group of people climbing a rock while one man belays.,A rock that was being climbed by a group of people while one man belayed was being scaled.
+4,1017675163.jpg,65,A woman wearing an orange leotard is doing gymnastics in front of an audience.,Gymnastics that were being performed by a woman wearing an orange leotard were being watched by an audience.
+4,1019077836.jpg,70,A large brown dog running away from the sprinkler in the grass.,A sprinkler in the grass from which a large brown dog was running away was spraying water.
+4,1022975728.jpg,82,A black lab with tags frolics in the water.,The water is being frolicked in by a black lab with tags.
+4,102351840.jpg,83,A man drills through the frozen ice of a pond.,The frozen ice of a pond is being drilled through by a man.
+4,1024138940.jpg,84,Two different breeds of brown and white dogs play on the beach.,The beach is being played on by two different breeds of brown and white dogs.
+4,102455176.jpg,85,An ice climber in a blue jacket and black pants scales a frozen ice wall.,A frozen ice wall is being scaled by an ice climber in a blue jacket and black pants.
+4,1024613706.jpg,86,Two young men and a young lady walk through a field near the water.,A field near the water is being walked through by two young men and a young lady.
+4,102520526.jpg,87,A man in black attire shovels snow into the street.,Snow is being shoveled into the street by a man in black attire.
+4,102575576.jpg,88,A couple in their wedding attire stand behind a table with a wedding cake and flowers.,A table with a wedding cake and flowers is being stood behind by a couple in their wedding attire.
+4,102617084.jpg,89,Five snowmobile riders wearing helmets and goggles line up in a snowy clearing in a forest.,A snowy clearing in a forest is being lined up in by five snowmobile riders wearing helmets and goggles.
+4,1026685415.jpg,90,A black dog carries a green toy in his mouth as he walks through the grass.,A green toy is being carried through the grass by a black dog.
+4,1026792563.jpg,91,A group of women and children sell rows of vegetables in a market.,Rows of vegetables are being sold by a group of women and children in a market.
+4,1027149103.jpg,92,A band plays in front of an audience while the singer wears an orange shirt.,An audience is being played in front of by a band while the singer wears an orange shirt.
+4,1027211271.jpg,93,A young woman wearing jeans and a striped sweater jumps in midair on a skateboard.,A skateboard is being jumped on in midair by a young woman wearing jeans and a striped sweater.
+4,1028205764.jpg,94,A man and a little boy in blue life jackets row a yellow canoe.,A yellow canoe is being rowed by a man and a little boy in blue life jackets.
+4,102851549.jpg,95,A little boy looks at the camera while a woman laughs behind him.,The camera is being looked at by a little boy while a woman laughs behind him.
+4,102860573.jpg,96,Three men are working at a construction site on a street.,A street construction site is being worked on by three men.
+4,10287332.jpg,97,Two men sit on the roof of a house while another man stands on a ladder.,The roof of a house is being sat on by two men while another man stands on a ladder.
+4,1028982826.jpg,98,"Two men, one younger with a yellow shirt and luggage, sit on a bench in front of a building with a billboard.","A bench in front of a building with a billboard is being sat on by two men, one younger with a yellow shirt and luggage."
+4,1029450589.jpg,99,An adult wearing a gray shirt with red sleeves sleeps on a couch.,A couch is being slept on by an adult wearing a gray shirt with red sleeves.
+4,1029737941.jpg,100,A boy in a brown shirt with headphones sits on a woman’s shoulders in a crowd.,A woman’s shoulders in a crowd are being sat on by a boy in a brown shirt with headphones.
+4,1029802110.jpg,101,Some people hold up rainbow flags during a gay pride parade in an Asian city to show support.,Rainbow flags are being held up to show support during a gay pride parade in an Asian city.
+4,10350842.jpg,118,A man in a green shirt and red life jacket is sitting in a canoe drifting around the lake.,A canoe drifting around the lake is being sat in by a man in a green shirt and red life jacket.
+4,1035392784.jpg,119,A man in black with long hair is playing a guitar with stickers on it.,A guitar with stickers on it is being played by a man in black with long hair.
+4,103625356.jpg,120,A man in a black shirt crouches next to a dirty unfinished concrete edge while tools lean against a tree nearby.,A dirty unfinished concrete edge is being crouched next to by a man in a black shirt.
+4,103631543.jpg,121,A Caucasian young woman in a white hooded sweatshirt sits at a table set for two in a lowly lit restaurant.,A table set for two in a lowly lit restaurant is being sat at by a Caucasian young woman in a white hooded sweatshirt.
+4,1039360778.jpg,122,A woman in a blue shirt and sunglasses lies on a red blanket in a grassy field with a bike next to her.,A red blanket in a grassy field with a bike set down next to it is being lied on by a woman in a blue shirt and sunglasses.
+4,103953336.jpg,123,Someone is standing on a long bridge with a cloudy blue sky in the background.,A long bridge with a cloudy blue sky in the background is being stood on by someone.
+4,1039637574.jpg,124,A man in a cream shirt photographs a bride in a light pink dress posing with male relatives.,A bride in a light pink dress is being photographed by a man in a cream shirt while posing with male relatives.
+4,10404007.jpg,125,A young white boy walks on a grassy area with a sad expression on his face.,A grassy area is being walked on by a young white boy with a sad expression on his face.
+4,1040426962.jpg,126,A man cooks green beans in a grill basket on a grill while a yellow lab stands by him.,Green beans in a grill basket on a grill are being cooked by a man with a yellow lab standing by him.
+4,104136873.jpg,127,Three people are on a hilltop overlooking a green valley.,A green valley is being overlooked from a hilltop by three people.
+4,104180524.jpg,128,A group of tourists crosses a bridge that connects a walking path to a trail of nature.,A bridge that connects a walking path to a trail of nature is being crossed by a group of tourists.
+4,1042020065.jpg,129,A young boy wearing a jersey looks down over a ledge at many boats in the water.,A ledge overlooking many boats in the water is being looked down from by a young boy wearing a jersey.
+5,1000268201.jpg,2,The stairs that is climbed by the girl were in her playhouse.,A little girl is climbing the stairs to her playhouse.
+5,1001545525.jpg,9,A rail is being jumped over simultaneously by two shirtless men in Germany.,Two shirtless men in Germany are jumping over a rail at the same time.
+5,1001573224.jpg,10,Five ballet dancers are being caught mid-jump in a dancing studio lit by sunlight through a window.,Sunlight streams through a window as five ballet dancers jump in a studio.
+5,1001633352.jpg,11,Sneakers are being worn by three young men and a woman as they leap in midair at the top of concrete stairs.,Three young men and a woman wearing sneakers leap in midair at the top of a staircase.
+5,1001773457.jpg,12,Each dog is being stared at by the other in the street.,A black dog and a white dog with brown spots are staring at each other in the street.
+5,1001896054.jpg,13,A John Deere tractor is being driven on a road by a man wearing reflective safety clothes and ear protection.,A man with reflective safety clothes and ear protection drives a John Deere tractor on the road.
+5,100197432.jpg,14,A bus with buildings behind it is being stood in front of by some women.,Some women stand in front of a bus with buildings in the background.
+5,100207720.jpg,15,White powder is being sifted onto a cake by a young woman with dark hair and glasses.,A young woman with dark hair and glasses sifts white powder onto a cake.
+5,1002674143.jpg,16,Finger paints are being played with by a small girl in the grass in front of a white canvas with a rainbow.,A small girl in the grass plays with finger paints in front of a white canvas showing a rainbow.
+5,1003163366.jpg,17,A bench is being slept on by a man while a white and black dog sits next to him.,A man sleeps on a bench outside as a white and black dog sits beside him.
+5,1003420127.jpg,18,Chairs arranged in a circle are being sat on by a group of adults playing musical instruments.,"A group of adults sits on chairs arranged in a circle, playing musical instruments."
+5,1003428081.jpg,19,Clarinets and a stringed instrument are being played by two women wearing glasses and an elderly woman.,Two women wearing glasses play clarinets while an elderly woman plays a stringed instrument.
+5,100444898.jpg,20,A structure outdoors in the dark is being stood on by a person in gray.,A person in gray stands alone on a structure outdoors in the dark.
+5,1005216151.jpg,21,A man in a white t-shirt is being surrounded by a crowd near a metro station as he looks toward the camera.,A man in a white t-shirt looks toward the camera while a crowd surrounds him near a metro station.
+5,100577935.jpg,22,A tattoo is being placed on someone’s back by a man with a goatee in a black shirt and white gloves.,A man with a goatee in a black shirt and white gloves uses a tattoo gun to place a tattoo on someone’s back.
+5,100759042.jpg,29,A toothpick that was being held by a young man in a jacket had something on the end of it.,A young man in a jacket holding a toothpick with something on the end of it
+5,10082348.jpg,31,A urinal at which a man was standing was being accompanied by a coffee cup.,A man is standing at a urinal with a coffee cup.
+5,100845130.jpg,32,A multicolored sky in the background was being walked with by five people.,Five people are walking with a multicolored sky in the background.
+5,1010087179.jpg,38,A photograph about which an older man working in a factory was not being too excited was being viewed,An older man working in a factory is not looking too excited about the photograph.
+5,10101477.jpg,40,A broom that was being held by a man in a blue and white outfit was accompanied by traditional Asian architecture in the background.,"A man wearing a blue and white outfit, holding a broom, with traditional Asian architecture in the background."
+5,1010470346.jpg,41,A row of cars waiting to go through a checkpoint was being watched by a man on a bicycle.,A man on a bicycle is watching a row of cars waiting to go through a checkpoint.
+5,101093029.jpg,43,A Segway type vehicle that was being driven by a man in a blue shirt was in motion.,A man in a blue shirt is driving a Segway type vehicle.
+5,1012150929.jpg,46,A GameCube that was being played by a little boy was at a McDonald's .,A little boy playing GameCube at a McDonald's.
+5,101362133.jpg,51,A board that was being held by her Karate instructor was being broken by a young female student performing a downward kick.,A young female student performing a downward kick to break a board held by her Karate instructor.
+5,1015712668.jpg,59,A bridge that is over the river and across which a bike was being ridden by a man was being crossed.,A man is riding his bike across the bridge that is over the river.
+5,10160966.jpg,60,Hotdogs that were being grilled on a small propane grill by a barefooted man wearing olive green shorts and holding a blue plastic cup were cooking.,A barefooted man wearing olive green shorts grilling hotdogs on a small propane grill while holding a blue plastic cup.
+5,101669240.jpg,63,Framed pictures that were set up in the snow were being looked at by a person wearing skis.,A person wearing skis is looking at framed pictures set up in the snow.
+5,1016887272.jpg,64,A rock that was being climbed by a group of people while one man belayed was being scaled.,A group of people climbing a rock while one man belays.
+5,1017675163.jpg,65,Gymnastics that were being performed by a woman wearing an orange leotard were being watched by an audience.,A woman wearing an orange leotard is doing gymnastics in front of an audience.
+5,1019077836.jpg,70,A sprinkler in the grass from which a large brown dog was running away was spraying water.,A large brown dog running away from the sprinkler in the grass.
+5,1022975728.jpg,82,The water is being frolicked in by a black lab with tags.,A black lab with tags frolics in the water.
+5,102351840.jpg,83,The frozen ice of a pond is being drilled through by a man.,A man drills through the frozen ice of a pond.
+5,1024138940.jpg,84,The beach is being played on by two different breeds of brown and white dogs.,Two different breeds of brown and white dogs play on the beach.
+5,102455176.jpg,85,A frozen ice wall is being scaled by an ice climber in a blue jacket and black pants.,An ice climber in a blue jacket and black pants scales a frozen ice wall.
+5,1024613706.jpg,86,A field near the water is being walked through by two young men and a young lady.,Two young men and a young lady walk through a field near the water.
+5,102520526.jpg,87,Snow is being shoveled into the street by a man in black attire.,A man in black attire shovels snow into the street.
+5,102575576.jpg,88,A table with a wedding cake and flowers is being stood behind by a couple in their wedding attire.,A couple in their wedding attire stand behind a table with a wedding cake and flowers.
+5,102617084.jpg,89,A snowy clearing in a forest is being lined up in by five snowmobile riders wearing helmets and goggles.,Five snowmobile riders wearing helmets and goggles line up in a snowy clearing in a forest.
+5,1026685415.jpg,90,A green toy is being carried through the grass by a black dog.,A black dog carries a green toy in his mouth as he walks through the grass.
+5,1026792563.jpg,91,Rows of vegetables are being sold by a group of women and children in a market.,A group of women and children sell rows of vegetables in a market.
+5,1027149103.jpg,92,An audience is being played in front of by a band while the singer wears an orange shirt.,A band plays in front of an audience while the singer wears an orange shirt.
+5,1027211271.jpg,93,A skateboard is being jumped on in midair by a young woman wearing jeans and a striped sweater.,A young woman wearing jeans and a striped sweater jumps in midair on a skateboard.
+5,1028205764.jpg,94,A yellow canoe is being rowed by a man and a little boy in blue life jackets.,A man and a little boy in blue life jackets row a yellow canoe.
+5,102851549.jpg,95,The camera is being looked at by a little boy while a woman laughs behind him.,A little boy looks at the camera while a woman laughs behind him.
+5,102860573.jpg,96,A street construction site is being worked on by three men.,Three men are working at a construction site on a street.
+5,10287332.jpg,97,The roof of a house is being sat on by two men while another man stands on a ladder.,Two men sit on the roof of a house while another man stands on a ladder.
+5,1028982826.jpg,98,"A bench in front of a building with a billboard is being sat on by two men, one younger with a yellow shirt and luggage.","Two men, one younger with a yellow shirt and luggage, sit on a bench in front of a building with a billboard."
+5,1029450589.jpg,99,A couch is being slept on by an adult wearing a gray shirt with red sleeves.,An adult wearing a gray shirt with red sleeves sleeps on a couch.
+5,1029737941.jpg,100,A woman’s shoulders in a crowd are being sat on by a boy in a brown shirt with headphones.,A boy in a brown shirt with headphones sits on a woman’s shoulders in a crowd.
+5,1029802110.jpg,101,Rainbow flags are being held up to show support during a gay pride parade in an Asian city.,Some people hold up rainbow flags during a gay pride parade in an Asian city to show support.
+5,10350842.jpg,118,A canoe drifting around the lake is being sat in by a man in a green shirt and red life jacket.,A man in a green shirt and red life jacket is sitting in a canoe drifting around the lake.
+5,1035392784.jpg,119,A guitar with stickers on it is being played by a man in black with long hair.,A man in black with long hair is playing a guitar with stickers on it.
+5,103625356.jpg,120,A dirty unfinished concrete edge is being crouched next to by a man in a black shirt.,A man in a black shirt crouches next to a dirty unfinished concrete edge while tools lean against a tree nearby.
+5,103631543.jpg,121,A table set for two in a lowly lit restaurant is being sat at by a Caucasian young woman in a white hooded sweatshirt.,A Caucasian young woman in a white hooded sweatshirt sits at a table set for two in a lowly lit restaurant.
+5,1039360778.jpg,122,A red blanket in a grassy field with a bike set down next to it is being lied on by a woman in a blue shirt and sunglasses.,A woman in a blue shirt and sunglasses lies on a red blanket in a grassy field with a bike next to her.
+5,103953336.jpg,123,A long bridge with a cloudy blue sky in the background is being stood on by someone.,Someone is standing on a long bridge with a cloudy blue sky in the background.
+5,1039637574.jpg,124,A bride in a light pink dress is being photographed by a man in a cream shirt while posing with male relatives.,A man in a cream shirt photographs a bride in a light pink dress posing with male relatives.
+5,10404007.jpg,125,A grassy area is being walked on by a young white boy with a sad expression on his face.,A young white boy walks on a grassy area with a sad expression on his face.
+5,1040426962.jpg,126,Green beans in a grill basket on a grill are being cooked by a man with a yellow lab standing by him.,A man cooks green beans in a grill basket on a grill while a yellow lab stands by him.
+5,104136873.jpg,127,A green valley is being overlooked from a hilltop by three people.,Three people are on a hilltop overlooking a green valley.
+5,104180524.jpg,128,A bridge that connects a walking path to a trail of nature is being crossed by a group of tourists.,A group of tourists crosses a bridge that connects a walking path to a trail of nature.
+5,1042020065.jpg,129,A ledge overlooking many boats in the water is being looked down from by a young boy wearing a jersey.,A young boy wearing a jersey looks down over a ledge at many boats in the water.
+6,1000092795.jpg,0,The yard hangs out nicely while the two young guys look at their hands.,The hands are looked at by the two young guys while they hang out in the yard.
+6,1001896054.jpg,13,The rural road comes alive as the tractor moves under the driver’s guidance.,The John Deere tractor drives steadily along the road with the man at the wheel.
+6,100197432.jpg,14,The city hums quietly as the women stand near the bus.,The bus stands stationary as the women gather in front of it.
+6,100207720.jpg,15,The kitchen feels warm as the woman carefully sprinkles the cake with sugar.,The cake dusts itself with powdered sugar as the woman uses the sifter.
+6,100845130.jpg,32,One can decorate the horizon's sunset.,The horizon's sunset can be decorated.
+6,101362650.jpg,52,The crowd observes as the martial arts perform smoothly.,The martial arts demonstrate well as two people jump over the youngsters.
+6,1014785440.jpg,55,The neighborhood strolls pleasantly as the men carry children on their backs.,The children carry easily on the backs of the two men as they walk down the street.
+6,1015712668.jpg,59,The body of water flows calmly as the man bikes over the bridge.,The bridge bikes smoothly as the man crosses it over the water.
+6,1018148011.jpg,67,The cotton loads easily as the truck stands with people in the back.,The truck fills with cotton and stands occupied by the group.
+6,1021332107.jpg,76,The living room presents itself as the man holds the cabinet.,The cabinet holds well in the hands of the elderly man as he stands in his living room.
+6,102575576.jpg,88,The flowers decorate elegantly as the couple and cake share the space.,The wedding cake displays beautifully on the table as the couple stands behind it.
+6,1027149103.jpg,92,The audience listens intently as the band plays their music.,The music plays loudly as the singer performs in front of the audience.
+6,102851549.jpg,95,The laughter flows naturally as the boy looks at the camera.,The camera looks back as the boy faces it with a woman laughing in the background.
+6,1029737941.jpg,100,The crowd moves lively as the boy sits on the shoulders.,The boy sits comfortably on the shoulders while the crowd surrounds them.
+6,102998070.jpg,102,The group observes casually as the young man cleans the fish.,The fish clean well as the young man works while the others watch.
+6,103205630.jpg,109,The ice holds steady as the men stand and examine the tarp.,The blue tarp covers the object well as the men look into it on the ice.
+6,1042590306.jpg,131,The scene unfolds gracefully as the man holds the woman’s hand.,The hand holds easily to the man's mouth while the other watches.
+6,1044434135.jpg,135,The street buzzes actively as the man rides the bicycle.,The bicycle rides smoothly in the busy street as the man controls it.
+6,10459869.jpg,140,The meal shares effortlessly as the group gathers to eat.,The table serves well as the group eats together around it.
+6,104816788.jpg,145,The scene captures perfectly as the baby girl rests with her striped outfit.,The pantaloons dress whimsically as the little girl’s sleepy smile grows.
+6,1056415186.jpg,168,The moment unfolds cheerfully as the two girls laugh together.,The laughter carries between two Asian girls as one holds an instrument.
+6,105685221.jpg,169,The path flows smoothly as the joggers run under the sun.,The joggers move effortlessly through the sunny neighborhood.
+6,1056873310.jpg,170,The scene livens up as the dogs run along the rocky area.,The rocky shore plays host to two dogs running toward each other.
+6,1057089366.jpg,171,The water awaits as the child leaps from the board.,The diving board launches the kid smoothly into the pool below.
+6,1057251835.jpg,172,The shore stretches as the dog runs down its path.,The rocky beach carries the white dog as it runs along.
+6,105806535.jpg,173,The water holds steady as the man relaxes in the pale.,The wooden pale fills as the young man bathes in it.
+6,1059514525.jpg,174,The sidewalk stays calm as the bench hosts the sleeper.,The bench rests quietly while the person sleeps on it.
+6,10602072.jpg,175,The forest scene thrives as the girls play among the trees.,The short tree climbs easily as the younger girl moves up its branches.
+6,106027774.jpg,176,The road journeys quietly as the soldier rests in the car.,The car carries the soldier as he sleeps on his way home.
+6,106027978.jpg,177,The blanket wraps gently as the woman rests in the car.,The car shelters the woman as she sleeps under the blanket.
+6,106039369.jpg,178,The kitchen comes alive as the man flips the pancake.,The kitchen comes alive as the man flips the pancake.
+6,1060605297.jpg,179,The conversation flows naturally at the emergency scene.,The scene accommodates the firefighters as they converse with the man.
+6,1061467336.jpg,180,The moment organizes itself as the firefighters stand by the truck.,The firetruck stands ready as the firefighters gather around it.
+6,1061887159.jpg,181,The beach scene settles as the man and child share the moment.,The boats station quietly as the man kneels on the beach with the child.
+6,106300392.jpg,182,The construction scene unfolds as the men work on the ladder.,The object draws attention as the man in the orange hat inspects it.
+6,1088385559.jpg,242,The kitchen scene fills with warmth as the woman cooks vegetables.,The vegetables stir fry easily in the woman’s kitchen.
+6,1088767354.jpg,243,The scene comes alive as the girl in the bikini interacts with others.,The salmon-colored bikini stands out as the girl stands beside two young people.
+6,108898978.jpg,244,The forest feels peaceful as the skiers move along the snowy path.,The trail skis smoothly as two people glide along in yellow jackets.
+6,108899015.jpg,245,The forest feels peaceful as the skiers move along the snowy path.,The trail skis smoothly as two people glide along in yellow jackets.
+6,1089059626.jpg,246,The snowy slope stretches upward as the skier climbs.,The mountain rises steadily as the skier ascends.
+6,1089181217.jpg,247,The space feels focused as the man sharpens his tools.,The food prepares easily as the man works at his table.
+6,1089354362.jpg,248,The scene brightens as the dog happily runs down the path.,The path runs smoothly under the dog’s feet.
+6,108957912.jpg,249,The quiet moment unfolds as the girl writes on the steps.,The steps support the girl as she writes in her journal.
+6,108970557.jpg,250,The city bustles as pedestrians and workers share the space.,The street crosses smoothly as people move across it.
+6,1089755335.jpg,251,The atmosphere settles as the woman sits with her book nearby.,The chair holds the woman comfortably as she sits in her purple dress.
+6,109083036.jpg,252,The scene glows softly at night as the group looks at the sea.,The boardwalk overlooks the sea as the woman stands with the children.
+6,1091942526.jpg,253,The game energizes the space as the players enjoy the activity.,The sand welcomes the players as the game unfolds with wooden paddles.
+6,10919429.jpg,254,The scene livens up as the woman laughs and interacts with the children.,The laughter carries as the children climb and play around the woman.
+6,110201971.jpg,298,The village scene comes alive as the men ride the elephant.,The elephant rides steadily with three men on its back.
+6,11026590.jpg,300,The room brightens as the children share their smiles.,The moment captures joy as the boy and girl smile.
+6,110269384.jpg,301,The market livens up as the woman tends to her flowers.,The flowers arrange themselves beautifully as the woman sits nearby.
+6,1102763701.jpg,302,The outdoor event thrives as the scouts unite under the flags.,The flags flutter as the young individuals gather below them.
+6,11034843.jpg,303,The room fills with sound as the baby clutches the crib.,The crib steadies itself as the baby holds on and cries.
+6,1104087374.jpg,304,The shore softens as the couple shares the moment.,The sand warms as the couple sits and shakes hands by the water.
+6,1104133405.jpg,305,The grassy field supports the boy as he carries the ball.,The soccer ball rests easily in the boy’s arms as he walks.
+6,1104881373.jpg,306,The shop buzzes quietly as the man serves the woman.,The ice cream scoops easily as the woman waits at the counter.
+6,1105137588.jpg,307,The setting feels tranquil as the diners share the space.,The table holds the man’s meal as he eats alone.
+6,110590591.jpg,308,The atmosphere quiets as the flag becomes the focus.,The flag spreads across the area as people gather around it.
+6,1105959054.jpg,309,The paper transforms as the girl’s strokes create art.,The colors blend smoothly as the girl paints on the paper.
+6,110595925.jpg,310,The ride feels fluid as the cyclist navigates the curve.,The road curves sharply as the man cycles down it.
+6,110600869.jpg,311,The field brightens as the girl runs with joy.,The grass bends softly under the girl as she runs and laughs.
+6,110613709.jpg,312,The laboratory hums as the man focuses on his work.,The objects hold the man’s attention as he examines them.
+6,110615445.jpg,313,The space feels intimate as the couple kisses on the escalator.,The escalator moves steadily as the couple embraces.
+7,1000092795.jpg,0,The hands are looked at by the two young guys while they hang out in the yard.,The yard hangs out nicely while the two young guys look at their hands.
+7,1001896054.jpg,13,The John Deere tractor drives steadily along the road with the man at the wheel.,The rural road comes alive as the tractor moves under the driver’s guidance.
+7,100197432.jpg,14,The bus stands stationary as the women gather in front of it.,The city hums quietly as the women stand near the bus.
+7,100207720.jpg,15,The cake dusts itself with powdered sugar as the woman uses the sifter.,The kitchen feels warm as the woman carefully sprinkles the cake with sugar.
+7,100845130.jpg,32,The horizon's sunset can be decorated.,One can decorate the horizon's sunset.
+7,101362650.jpg,52,The martial arts demonstrate well as two people jump over the youngsters.,The crowd observes as the martial arts perform smoothly.
+7,1014785440.jpg,55,The children carry easily on the backs of the two men as they walk down the street.,The neighborhood strolls pleasantly as the men carry children on their backs.
+7,1015712668.jpg,59,The bridge bikes smoothly as the man crosses it over the water.,The body of water flows calmly as the man bikes over the bridge.
+7,1018148011.jpg,67,The truck fills with cotton and stands occupied by the group.,The cotton loads easily as the truck stands with people in the back.
+7,1021332107.jpg,76,The cabinet holds well in the hands of the elderly man as he stands in his living room.,The living room presents itself as the man holds the cabinet.
+7,102575576.jpg,88,The wedding cake displays beautifully on the table as the couple stands behind it.,The flowers decorate elegantly as the couple and cake share the space.
+7,1027149103.jpg,92,The music plays loudly as the singer performs in front of the audience.,The audience listens intently as the band plays their music.
+7,102851549.jpg,95,The camera looks back as the boy faces it with a woman laughing in the background.,The laughter flows naturally as the boy looks at the camera.
+7,1029737941.jpg,100,The boy sits comfortably on the shoulders while the crowd surrounds them.,The crowd moves lively as the boy sits on the shoulders.
+7,102998070.jpg,102,The fish clean well as the young man works while the others watch.,The group observes casually as the young man cleans the fish.
+7,103205630.jpg,109,The blue tarp covers the object well as the men look into it on the ice.,The ice holds steady as the men stand and examine the tarp.
+7,1042590306.jpg,131,The hand holds easily to the man's mouth while the other watches.,The scene unfolds gracefully as the man holds the woman’s hand.
+7,1044434135.jpg,135,The bicycle rides smoothly in the busy street as the man controls it.,The street buzzes actively as the man rides the bicycle.
+7,10459869.jpg,140,The table serves well as the group eats together around it.,The meal shares effortlessly as the group gathers to eat.
+7,104816788.jpg,145,The pantaloons dress whimsically as the little girl’s sleepy smile grows.,The scene captures perfectly as the baby girl rests with her striped outfit.
+7,1056415186.jpg,168,The laughter carries between two Asian girls as one holds an instrument.,The moment unfolds cheerfully as the two girls laugh together.
+7,105685221.jpg,169,The joggers move effortlessly through the sunny neighborhood.,The path flows smoothly as the joggers run under the sun.
+7,1056873310.jpg,170,The rocky shore plays host to two dogs running toward each other.,The scene livens up as the dogs run along the rocky area.
+7,1057089366.jpg,171,The diving board launches the kid smoothly into the pool below.,The water awaits as the child leaps from the board.
+7,1057251835.jpg,172,The rocky beach carries the white dog as it runs along.,The shore stretches as the dog runs down its path.
+7,105806535.jpg,173,The wooden pale fills as the young man bathes in it.,The water holds steady as the man relaxes in the pale.
+7,1059514525.jpg,174,The bench rests quietly while the person sleeps on it.,The sidewalk stays calm as the bench hosts the sleeper.
+7,10602072.jpg,175,The short tree climbs easily as the younger girl moves up its branches.,The forest scene thrives as the girls play among the trees.
+7,106027774.jpg,176,The car carries the soldier as he sleeps on his way home.,The road journeys quietly as the soldier rests in the car.
+7,106027978.jpg,177,The car shelters the woman as she sleeps under the blanket.,The blanket wraps gently as the woman rests in the car.
+7,106039369.jpg,178,The kitchen comes alive as the man flips the pancake.,The kitchen comes alive as the man flips the pancake.
+7,1060605297.jpg,179,The scene accommodates the firefighters as they converse with the man.,The conversation flows naturally at the emergency scene.
+7,1061467336.jpg,180,The firetruck stands ready as the firefighters gather around it.,The moment organizes itself as the firefighters stand by the truck.
+7,1061887159.jpg,181,The boats station quietly as the man kneels on the beach with the child.,The beach scene settles as the man and child share the moment.
+7,106300392.jpg,182,The object draws attention as the man in the orange hat inspects it.,The construction scene unfolds as the men work on the ladder.
+7,1088385559.jpg,242,The vegetables stir fry easily in the woman’s kitchen.,The kitchen scene fills with warmth as the woman cooks vegetables.
+7,1088767354.jpg,243,The salmon-colored bikini stands out as the girl stands beside two young people.,The scene comes alive as the girl in the bikini interacts with others.
+7,108898978.jpg,244,The trail skis smoothly as two people glide along in yellow jackets.,The forest feels peaceful as the skiers move along the snowy path.
+7,108899015.jpg,245,The trail skis smoothly as two people glide along in yellow jackets.,The forest feels peaceful as the skiers move along the snowy path.
+7,1089059626.jpg,246,The mountain rises steadily as the skier ascends.,The snowy slope stretches upward as the skier climbs.
+7,1089181217.jpg,247,The food prepares easily as the man works at his table.,The space feels focused as the man sharpens his tools.
+7,1089354362.jpg,248,The path runs smoothly under the dog’s feet.,The scene brightens as the dog happily runs down the path.
+7,108957912.jpg,249,The steps support the girl as she writes in her journal.,The quiet moment unfolds as the girl writes on the steps.
+7,108970557.jpg,250,The street crosses smoothly as people move across it.,The city bustles as pedestrians and workers share the space.
+7,1089755335.jpg,251,The chair holds the woman comfortably as she sits in her purple dress.,The atmosphere settles as the woman sits with her book nearby.
+7,109083036.jpg,252,The boardwalk overlooks the sea as the woman stands with the children.,The scene glows softly at night as the group looks at the sea.
+7,1091942526.jpg,253,The sand welcomes the players as the game unfolds with wooden paddles.,The game energizes the space as the players enjoy the activity.
+7,10919429.jpg,254,The laughter carries as the children climb and play around the woman.,The scene livens up as the woman laughs and interacts with the children.
+7,110201971.jpg,298,The elephant rides steadily with three men on its back.,The village scene comes alive as the men ride the elephant.
+7,11026590.jpg,300,The moment captures joy as the boy and girl smile.,The room brightens as the children share their smiles.
+7,110269384.jpg,301,The flowers arrange themselves beautifully as the woman sits nearby.,The market livens up as the woman tends to her flowers.
+7,1102763701.jpg,302,The flags flutter as the young individuals gather below them.,The outdoor event thrives as the scouts unite under the flags.
+7,11034843.jpg,303,The crib steadies itself as the baby holds on and cries.,The room fills with sound as the baby clutches the crib.
+7,1104087374.jpg,304,The sand warms as the couple sits and shakes hands by the water.,The shore softens as the couple shares the moment.
+7,1104133405.jpg,305,The soccer ball rests easily in the boy’s arms as he walks.,The grassy field supports the boy as he carries the ball.
+7,1104881373.jpg,306,The ice cream scoops easily as the woman waits at the counter.,The shop buzzes quietly as the man serves the woman.
+7,1105137588.jpg,307,The table holds the man’s meal as he eats alone.,The setting feels tranquil as the diners share the space.
+7,110590591.jpg,308,The flag spreads across the area as people gather around it.,The atmosphere quiets as the flag becomes the focus.
+7,1105959054.jpg,309,The colors blend smoothly as the girl paints on the paper.,The paper transforms as the girl’s strokes create art.
+7,110595925.jpg,310,The road curves sharply as the man cycles down it.,The ride feels fluid as the cyclist navigates the curve.
+7,110600869.jpg,311,The grass bends softly under the girl as she runs and laughs.,The field brightens as the girl runs with joy.
+7,110613709.jpg,312,The objects hold the man’s attention as he examines them.,The laboratory hums as the man focuses on his work.
+7,110615445.jpg,313,The escalator moves steadily as the couple embraces.,The space feels intimate as the couple kisses on the escalator.
+8,1000268201.jpg,2,A child uses an odd way to climb a set.,A child climbs a set in an odd way.
+8,100207720.jpg,15,Woman adds cake with sugar.,Woman adds sugar to a cake.
+8,1003428081.jpg,19,Instrumentists perform audience music.,Instrumentists perform music to audience.
+8,100577935.jpg,22,A man place other's back a tattoo.,A man place a tattoo on other's back.
+8,100716317.jpg,26,A person performs others street art.,A person performs street art to others.
+8,101362650.jpg,52,Two people demonstrate people martial arts.,Two people demonstrate martial arts to a crowd.
+8,101471792.jpg,54,A man shields his face with hand from the sun.,A man uses his hand to shield himself from the sun.
+8,102351840.jpg,83,A person drills the ice a hole.,A person drills a hole in the ice.
+8,1026792563.jpg,91,Women and children sell people vegetables.,Women and children sell vegetables to people.
+8,1035019794.jpg,117,A girl swings a ball with a bat,A girl swings a bat to a ball.
+8,1047921035.jpg,144,A man and a woman put the tub something,A man  and a woman put something into a tub
+8,104824673.jpg,146,A woman carries corn on her head,A woman uses her head to carry corn.
+8,105342180.jpg,159,A woman paddles the river in a boat.,A woman paddles a boat down a river.
+8,10637120.jpg,184,A machine digs the dirt a trench.,A machine digs a trench in the dirt.
+8,1068427675.jpg,196,Man throws bowling pins with a bowling ball.,Man throws bowling ball towards bowling pins.
+8,1073145694.jpg,201,A man throws a track a javelin.,A man throws a javelin on a track.
+8,1083240835.jpg,233,A woman applies her eyelashes mascara.,A woman applies mascara to her eyelashes.
+8,1087539207.jpg,241,Children pass a field on a tractor.,Children ride a tractor in a field.
+8,110269384.jpg,301,A woman sells people flowers.,A woman sells flowers to people.
+8,110695011.jpg,319,Vendors sell tourists wares.,Vendors sell wares to tourists.
+8,111069375.jpg,330,People performs audience fire tricks,People performs fire tricks to audience.
+8,11205420.jpg,359,Man does people a trick with bike.,A man does a bike trick to people.
+8,112459543.jpg,379,Children kick the coast a football,Children kick a football to the coast.
+8,114410209.jpg,431,A person holds his face a camera.,A person holds the camera to his face.
+8,1146490295.jpg,446,A man tells a group a story.,A man tells a story to the group
+8,1155138244.jpg,478,The waitress offers the patrons tea.,The waitress offers tea to the patrons.
+8,1159574340.jpg,489,A child performs another child a leap.,A child performs a leap to another child.
+8,1163438830.jpg,502,A person presents a woman a cake,A person presents a cake to a woman.
+8,1164765687.jpg,508,A man gives a dog a toy.,A man gives toys to a dog.
+8,116664780.jpg,514,Boy combs hair with a brush,Boy uses a brush to comb his hair
+8,118865844.jpg,565,A woman wipes the sponge on the table.,A woman wipes the table with a sponge
+8,124390903.jpg,712,A woman shares a girl sweets.,A woman shares sweets with a girl
+8,1265343716.jpg,778,The girl strikes the photographer a pose.,The girl strikes a pose to the photographer
+8,126772535.jpg,787,Scientists  pour a beaker with fluid.,Scientists pour fluid into a beaker.
+8,1271210445.jpg,794,Family celebrate child's birthday with a cake.,The family use a cake to celebrate child's birthday.
+8,1298866571.jpg,908,A man talk to people with phone.,A man uses a phone to talk to people.
+8,1312954382.jpg,971,A girl uses hand to hold a balloon.,A girl holds a balloon with her hand.
+8,132421833.jpg,1003,Man uses vacuum to clean the carpet.,A man vacuums the carpet with a vacuum
+8,13327175.jpg,1034,A man uses a piece to walk pig.,A man walks a pig with a piece
+8,134857559.jpg,1103,The band plays audience music.,The band plays a show to the audience.
+8,141139674.jpg,1379,Boy uses a bat to hit baseball.,Boy hits baseball with a bat
+8,1415147666.jpg,1402,An older lady adds a bowl some ingredients.,An older lady adds ingredients to a bowl
+8,1422951807.jpg,1436,A woman and another woman share meal,A woman shares meal with another woman.
+8,143446265.jpg,1498,A man shakes woman's hand.,A man shakes hands with a woman.
+8,1459032057.jpg,1591,A girl feeds herself a bun.,A girl holds her bun to her mouth.
+8,146779920.jpg,1637,A man plays a woman guitar.,A man plays guitar to a woman
+8,1468741099.jpg,1642,A man performs people drum.,A man plays the drum to people.
+8,1469107065.jpg,1647,A man drives a children's tractor,A man drives a tractor with children.
+8,151021636.jpg,1793,Cooks prepare to serve customers food.,Cooks prepares to serve food to cusomers.
+8,1516839584.jpg,1808,A woman offers another woman a platter.,A woman offers a platter to another woman
+8,15308702.jpg,1846,A man uses a stick to help a woman.,A man helps a woman with a stick
+8,1535963458.jpg,1855,A woman give the group a presentation.,A woman will give a presentation to the group
+8,1538278785.jpg,1861,A worker passes another worker a tool.,A worker passes a tool to another worker
+8,1547327107.jpg,1883,Girls take their parents for a walk.,Girls take a walk with their parents
+8,1579291454.jpg,1986,One man read a crowd a sheet.,One man read a sheet to a crowd.
+8,1594038143.jpg,2013,A man shows a boy a magic trick.,A man shows a magic trick to a boy.
+8,1597319381.jpg,2019,A player kicks his teammate a ball.,A player kicks the ball to a teammate
+8,165772854.jpg,2121,A man plays a girl guitar.,A man plays guitar to a girl
+8,177106188.jpg,2343,A man plays the drums with his hands.,A man use his hands to play drums.
+8,179656683.jpg,2400,A woman holds a man's hand.,A woman holds hands with a man.
+8,1850901757.jpg,2546,A woman shows the group something.,A woman shows something to the group
+8,191003287.jpg,2668,A man feeds a girl cream.,A man feeds cream to a girl
+8,1924261173.jpg,2696,A woman gives other women a presentation.,A woman gives a presentation to other women
+8,192618386.jpg,2706,A woman holds a child's hands.,A woman holds hands with a child.
+8,194467990.jpg,2748,A man throws a goal Frisbee.,A man throws a Frisbee to the goal.
+8,1989609.jpg,2851,A man hands a person a tool.,A man hands a tool to a person
+9,1000268201.jpg,2,A child climbs a set in an odd way.,A child uses an odd way to climb a set.
+9,100207720.jpg,15,Woman adds sugar to a cake.,Woman adds cake with sugar.
+9,1003428081.jpg,19,Instrumentists perform music to audience.,Instrumentists perform audience music.
+9,100577935.jpg,22,A man place a tattoo on other's back.,A man place other's back a tattoo.
+9,100716317.jpg,26,A person performs street art to others.,A person performs others street art.
+9,101362650.jpg,52,Two people demonstrate martial arts to a crowd.,Two people demonstrate people martial arts.
+9,101471792.jpg,54,A man uses his hand to shield himself from the sun.,A man shields his face with hand from the sun.
+9,102351840.jpg,83,A person drills a hole in the ice.,A person drills the ice a hole.
+9,1026792563.jpg,91,Women and children sell vegetables to people.,Women and children sell people vegetables.
+9,1035019794.jpg,117,A girl swings a bat to a ball.,A girl swings a ball with a bat
+9,1047921035.jpg,144,A man  and a woman put something into a tub,A man and a woman put the tub something
+9,104824673.jpg,146,A woman uses her head to carry corn.,A woman carries corn on her head
+9,105342180.jpg,159,A woman paddles a boat down a river.,A woman paddles the river in a boat.
+9,10637120.jpg,184,A machine digs a trench in the dirt.,A machine digs the dirt a trench.
+9,1068427675.jpg,196,Man throws bowling ball towards bowling pins.,Man throws bowling pins with a bowling ball.
+9,1073145694.jpg,201,A man throws a javelin on a track.,A man throws a track a javelin.
+9,1083240835.jpg,233,A woman applies mascara to her eyelashes.,A woman applies her eyelashes mascara.
+9,1087539207.jpg,241,Children ride a tractor in a field.,Children pass a field on a tractor.
+9,110269384.jpg,301,A woman sells flowers to people.,A woman sells people flowers.
+9,110695011.jpg,319,Vendors sell wares to tourists.,Vendors sell tourists wares.
+9,111069375.jpg,330,People performs fire tricks to audience.,People performs audience fire tricks
+9,11205420.jpg,359,A man does a bike trick to people.,Man does people a trick with bike.
+9,112459543.jpg,379,Children kick a football to the coast.,Children kick the coast a football
+9,114410209.jpg,431,A person holds the camera to his face.,A person holds his face a camera.
+9,1146490295.jpg,446,A man tells a story to the group,A man tells a group a story.
+9,1155138244.jpg,478,The waitress offers tea to the patrons.,The waitress offers the patrons tea.
+9,1159574340.jpg,489,A child performs a leap to another child.,A child performs another child a leap.
+9,1163438830.jpg,502,A person presents a cake to a woman.,A person presents a woman a cake
+9,1164765687.jpg,508,A man gives toys to a dog.,A man gives a dog a toy.
+9,116664780.jpg,514,Boy uses a brush to comb his hair,Boy combs hair with a brush
+9,118865844.jpg,565,A woman wipes the table with a sponge,A woman wipes the sponge on the table.
+9,124390903.jpg,712,A woman shares sweets with a girl,A woman shares a girl sweets.
+9,1265343716.jpg,778,The girl strikes a pose to the photographer,The girl strikes the photographer a pose.
+9,126772535.jpg,787,Scientists pour fluid into a beaker.,Scientists  pour a beaker with fluid.
+9,1271210445.jpg,794,The family use a cake to celebrate child's birthday.,Family celebrate child's birthday with a cake.
+9,1298866571.jpg,908,A man uses a phone to talk to people.,A man talk to people with phone.
+9,1312954382.jpg,971,A girl holds a balloon with her hand.,A girl uses hand to hold a balloon.
+9,132421833.jpg,1003,A man vacuums the carpet with a vacuum,Man uses vacuum to clean the carpet.
+9,13327175.jpg,1034,A man walks a pig with a piece,A man uses a piece to walk pig.
+9,134857559.jpg,1103,The band plays a show to the audience.,The band plays audience music.
+9,141139674.jpg,1379,Boy hits baseball with a bat,Boy uses a bat to hit baseball.
+9,1415147666.jpg,1402,An older lady adds ingredients to a bowl,An older lady adds a bowl some ingredients.
+9,1422951807.jpg,1436,A woman shares meal with another woman.,A woman and another woman share meal
+9,143446265.jpg,1498,A man shakes hands with a woman.,A man shakes woman's hand.
+9,1459032057.jpg,1591,A girl holds her bun to her mouth.,A girl feeds herself a bun.
+9,146779920.jpg,1637,A man plays guitar to a woman,A man plays a woman guitar.
+9,1468741099.jpg,1642,A man plays the drum to people.,A man performs people drum.
+9,1469107065.jpg,1647,A man drives a tractor with children.,A man drives a children's tractor
+9,151021636.jpg,1793,Cooks prepares to serve food to cusomers.,Cooks prepare to serve customers food.
+9,1516839584.jpg,1808,A woman offers a platter to another woman,A woman offers another woman a platter.
+9,15308702.jpg,1846,A man helps a woman with a stick,A man uses a stick to help a woman.
+9,1535963458.jpg,1855,A woman will give a presentation to the group,A woman give the group a presentation.
+9,1538278785.jpg,1861,A worker passes a tool to another worker,A worker passes another worker a tool.
+9,1547327107.jpg,1883,Girls take a walk with their parents,Girls take their parents for a walk.
+9,1579291454.jpg,1986,One man read a sheet to a crowd.,One man read a crowd a sheet.
+9,1594038143.jpg,2013,A man shows a magic trick to a boy.,A man shows a boy a magic trick.
+9,1597319381.jpg,2019,A player kicks the ball to a teammate,A player kicks his teammate a ball.
+9,165772854.jpg,2121,A man plays guitar to a girl,A man plays a girl guitar.
+9,177106188.jpg,2343,A man use his hands to play drums.,A man plays the drums with his hands.
+9,179656683.jpg,2400,A woman holds hands with a man.,A woman holds a man's hand.
+9,1850901757.jpg,2546,A woman shows something to the group,A woman shows the group something.
+9,191003287.jpg,2668,A man feeds cream to a girl,A man feeds a girl cream.
+9,1924261173.jpg,2696,A woman gives a presentation to other women,A woman gives other women a presentation.
+9,192618386.jpg,2706,A woman holds hands with a child.,A woman holds a child's hands.
+9,194467990.jpg,2748,A man throws a Frisbee to the goal.,A man throws a goal Frisbee.
+9,1989609.jpg,2851,A man hands a tool to a person,A man hands a person a tool.
+10,1001573224.jpg,10,The dancing studio provides five ballet dancers with sunlight streaming through a window.,Sunlight is streaming through a window into a dancing studio where five ballet dancers are caught mid-jump.
+10,101362650.jpg,52,Two people are demonstrating a crowd martial arts that jump over three crouching youngsters.,Two people are demonstrating martial arts to a crowd while jumping over three crouching youngsters.
+10,103306033.jpg,112,The woman gives the toddler a ride through the park in his stroller.,The woman in a brown dress is pushing a stroller with a toddler through a park.
+10,104180524.jpg,128,The bridge gives the tourists a way to reach the nature trail.,The tourists are crossing a bridge that connects a walking path to a nature trail.
+10,1042590306.jpg,131,The man gives the woman a gentle handhold in front of the buildings.,The man holds a woman’s hand near his mouth in front of the buildings.
+10,1056198351.jpg,165,The boy gives the bowl a thorough mix with the hand mixer.,A little boy holds a hand mixer in a bowl while smiling.
+10,1099434461.jpg,292,The pancake gives the man an opportunity to check its texture with fingers.,The man lifts a square pancake with a spatula to check for doneness.
+10,11205420.jpg,359,The rope gives the man in white a tightrope-like challenge.,A man dressed in white walks along a yellow rope attached to a bicycle’s handlebars.
+10,112245524.jpg,371,The spatula gives the woman an easy way to slice the hamburger.,The woman cuts a hamburger with a spatula while handling the drawer.
+10,1122944218.jpg,374,The toddler gives the lady a joyful moment as he waves the flag.,A lady helps the toddler wave a flag while he smiles.
+10,112459543.jpg,379,The field with a body of water gives the children a wide space to play soccer.,The children kick a ball around on a field with water in the background.
+10,11338041.jpg,406,The building with an orange sign gives the people a designated entry point.,People are waiting at the entryway of a white building with an orange sign.
+10,114410209.jpg,431,The long-lensed camera gives the person a clear shot of the red railroad car.,The person holds a long-lensed camera to his face while standing beside a red railroad car.
+10,1144288288.jpg,432,The street with a plant store gives the woman in white hat and shirt a scenic jogging path.,A woman in a white hat and shirt is jogging along a street with a plant store.
+10,1155138244.jpg,478,The waitress in a green hat and apron offers the patrons a complimentary tea.,The waitress in a green hat and apron offers complimentary tea to the patrons.
+10,1163438830.jpg,502,The woman gave the room a cake with three candles as another woman gave her friend a toast with a glass of wine.,A woman carried a cake with three candles into the room as another woman held up her hand with a glass of wine.
+10,116457850.jpg,507,Workers plant a walkway a tree,Workers plant a tree in a walkway.
+10,116664780.jpg,514,The child in a striped sweatshirt gives the younger sibling a neat brush with his hands.,A young child in a striped sweatshirt brushes through the hair of a younger child.
+10,118865844.jpg,565,The woman  in a pink sweater and eyeglasses gives the wooden table a careful wipe with a pink sponge.,A woman in a pink sweater and eyeglasses is wiping down a wooden table with a pink sponge.
+10,1193116658.jpg,579,The street gives both girls a lively ride as one rides a unicycle and the other a scooter.,A young girl on a unicycle rides beside another girl on a scooter through a busy street.
+10,1196602179.jpg,586,The garden gives the woman a perfect setting to play with her colorful green and red dragon.,A woman ventriloquist plays with her colorful green and red dragon in a beautiful garden.
+10,120545123.jpg,604,A group of people with black and red belts gives the students a disciplined practice session on a green mat.,A group of people with black and red belts is performing martial arts on a green mat.
+10,124390903.jpg,712,A woman wearing black glasses shares with a toddler girl wearing a princess hat some sweets.,A woman wearing black glasses shares sweets with a toddler girl wearing a princess hat.
+10,125382282.jpg,752,A man dressed in black attaches a blue wrecked SUV with a tow bar.,A man dressed in black attaches a tow bar to a blue wrecked SUV.
+10,126823727.jpg,788,A young bearded man stirs a wooden spoon into a pot.,A young bearded man stirs a pot with a wooden spoon
+10,129441311.jpg,880,A woman wearing a taupe coat demonstrates to her companion how to throw a punch.,A woman wearing a taupe coat demonstrates how to throw a punch to her companion.
+10,1312954382.jpg,971,A little girl in a yellowish-green and orange dress gives her right hand a Hello Kitty balloon on the street.,A little girl in a yellowish-green and orange dress is holding a Hello Kitty balloon in her right hand on the street.
+10,1342766791.jpg,1078,A small boy gives another boy on the ground a chance to help him climb a pole.,A small boy is climbing a pole with the help of another boy standing on the ground.
+10,1348278340.jpg,1098,A stage with instruments and musical equipment gives the man a setting to sing into a microphone.,A man is singing into a microphone on a stage with instruments and musical equipment placed around him.
+10,134857559.jpg,1103,A stage gives the man a place to sing while three people play guitars for a crowd.,A man is singing on a stage while three people play guitars in front of a crowd.
+10,136644885.jpg,1199,The rope bridge gives the woman a way to cross while others wait at one end.,A woman is crossing a rope bridge in the trees while other people wait at one end.
+10,137431037.jpg,1231,The scene gives three people in light-colored tops and dark pants a chance to take pictures with their cameras.,Three people in light-colored tops and dark pants are taking pictures with their cameras.
+10,1378557186.jpg,1244,The dog gives the man an audience as he aims to shoot at something.,The man is aiming to shoot at something while his dog watches.
+10,1409801982.jpg,1368,A chef in white uniforms explains to consumers the different varieties.,A chef in white uniforms explains the different varieties to consumers .
+10,141139674.jpg,1379,The boy in the blue shirt swings a ball a hit with a baseball bat while the boy in the red helmet waits.,The boy in the blue shirt is swinging a baseball bat at a ball while the boy in the red helmet waits.
+10,143446265.jpg,1498,An older man in a pink shirt gives a younger man in a black baseball cap a handshake.,An older man in a pink shirt shakes hands with a younger man in a black baseball cap.
+10,1440024115.jpg,1525,A man in shorts throws a pink frisbee for a tri-colored dog to catch.,A tri-colored dog jumps and catches a pink frisbee thrown by a man in shorts.
+10,1454678644.jpg,1572,"A big brown dog with a green object in its mouth gives a black dog a reason to chase, while another brown dog follows.","A big black dog chases a big brown dog that has a green object in its mouth, while another brown dog follows."
+10,1459032057.jpg,1591,A girl in a striped shirt gives her mouth a piece of bread to eat.,A girl in a striped shirt holds a piece of bread in front of her mouth.
+10,1463072715.jpg,1610,A checkers game gives the young boy a reason to focus while he rests his fist against his head.,A young boy is looking at a checkers board while resting his fist against his head in a room full of people.
+10,146380493.jpg,1615,The man in black shorts and a green shirt with the number 25 gives the soccer ball a strong kick.,The man in black shorts and a green shirt with the number 25 on the back is about to kick at the soccer ball.
+10,146779920.jpg,1637,The man in a white shirt and glasses gives the woman in white a tune by playing the guitar.,A man in a white shirt and glasses is playing the guitar while sitting next to a woman in white.
+10,1468741099.jpg,1642,A male drummer in sunglasses and a yellow t-shirt performs his audience a conga drum at a street festival.,A male drummer in sunglasses and a yellow t-shirt plays on a conga drum during a street festival.
+10,1469107065.jpg,1647,The tour guide in a dark shirt showed his young passengers a sign listing the rules.,The tour guide in a dark shirt and cap pointed at the sign that listed the rules for his young passengers.
+10,1496289999.jpg,1746,A person in a red and black jacket with a black backpack climbs a mountain face using a rope.,A person in a red and black jacket with a black backpack climbs up the face of a mountain.
+10,1499581619.jpg,1756,A man in a brown hooded jacket shares a kiss with a girl wearing sunglasses.,A man in a brown hooded jacket is kissing a girl wearing sunglasses.
+10,15308702.jpg,1846,A person in a black shirt shares a view with a person in a blue shirt from the top of a sand mound.,A person in a black shirt stands with another in a blue shirt on a mound of sand.
+10,1547327107.jpg,1883,Two young barefooted girls lead their father and mother up an old lava flow.,Two barefooted girls climb an old lava flow while their parents follow behind.
+10,1567005236.jpg,1943,A woman brings people food with a coffee cart through a plaza.,A woman brings the food to people with a coffee cart through the plaza.
+10,1568700473.jpg,1945,A young boy in a red hat captures a scene using a high-end camera.,A young boy in a red hat takes a picture with a high-end camera.
+10,1578427672.jpg,1978,"A small girl removes the wrapping from a green present, surrounded by toys.",A small girl unwraps a green present while toys lie scattered around her.
+10,1594038143.jpg,2013,A man in a pink shirt presents a magic trick to a boy in a blue shirt.,A man in a pink shirt performs a magic trick for a boy in a blue shirt.
+10,1597319381.jpg,2019,A soccer player dressed in blue and white kicks his teammate the ball.,A soccer player dressed in blue and white kicks the ball to his teammate.
+10,165772854.jpg,2121,An older man wearing a blue shirt and blue baseball cap plays a small black girl sitting on a red stool guitar.,An older man wearing a blue shirt and blue baseball cap plays guitar to a small black girl sitting on a red stool.
+10,16653104.jpg,2142,A teenager with a blow-up plastic hammer prepares to give a baseball a hit on the ground.,A teenager with a blow-up plastic hammer is about to hit a baseball on the ground.
+10,1680126311.jpg,2176,A child gives a blue and white soccer ball a strong kick as onlookers watch.,A child is playing soccer with a blue and white soccer ball as onlookers watch.
+10,1714316707.jpg,2247,"A child in a snowy landscape gives a tree branch a strong pull, causing snow to fall.",A child in a snowy landscape pulls down on a snow-covered tree branch.
+10,1733676900.jpg,2287,A mosaic sign with foreign text provides an old man in a multicolored hat a place to stand.,An old man in a multicolored hat stands in front of an earth-toned mosaic sign with foreign text.
+10,1771490732.jpg,2345,Two boys in blue and yellow uniforms challenge a boy in a pink printed uniform in a soccer game.,Two boys in blue and yellow uniforms play soccer against a boy in a pink printed uniform.
+10,179656683.jpg,2400,A woman in a pink hat walks down the street while holding a man in a white hat by the hand.,A woman in a pink hat holds hands with a man in a white hat as they walk down the street.
+10,1801874841.jpg,2431,The little dog bites down on a bedroom slipper and holds onto it.,The little dog grabs onto the bedroom slipper with its mouth.
+10,18119750.jpg,2467,A lady in a green sweatshirt and jeans hits a tennis ball while sitting on the ground with a racket.,A lady in a green sweatshirt and jeans sits on the ground and hits a tennis ball with a racket.
+10,1833327575.jpg,2515,A black man in a nice suite sings in the choir in the background a solo.,A black man in a nice suite sings a solo to the choir in the background.
+10,191003287.jpg,2668,A man with sunglasses and a black shirt feeds a girl with an orange dress on who is sitting beside an opened bag with an ice cream.,A man with sunglasses and a black shirt feeds ice cream to a girl with an orange dress on who is sitting beside an opened bag.
+10,192618386.jpg,2706,A barefoot woman in a blue skirt holds a child's hands while other children are playing.,A barefoot woman in a blue skirt holds hands with a child while other children are playing.
+11,1001573224.jpg,10,Sunlight is streaming through a window into a dancing studio where five ballet dancers are caught mid-jump.,The dancing studio provides five ballet dancers with sunlight streaming through a window.
+11,101362650.jpg,52,Two people are demonstrating martial arts to a crowd while jumping over three crouching youngsters.,Two people are demonstrating a crowd martial arts that jump over three crouching youngsters.
+11,103306033.jpg,112,The woman in a brown dress is pushing a stroller with a toddler through a park.,The woman gives the toddler a ride through the park in his stroller.
+11,104180524.jpg,128,The tourists are crossing a bridge that connects a walking path to a nature trail.,The bridge gives the tourists a way to reach the nature trail.
+11,1042590306.jpg,131,The man holds a woman’s hand near his mouth in front of the buildings.,The man gives the woman a gentle handhold in front of the buildings.
+11,1056198351.jpg,165,A little boy holds a hand mixer in a bowl while smiling.,The boy gives the bowl a thorough mix with the hand mixer.
+11,1099434461.jpg,292,The man lifts a square pancake with a spatula to check for doneness.,The pancake gives the man an opportunity to check its texture with fingers.
+11,11205420.jpg,359,A man dressed in white walks along a yellow rope attached to a bicycle’s handlebars.,The rope gives the man in white a tightrope-like challenge.
+11,112245524.jpg,371,The woman cuts a hamburger with a spatula while handling the drawer.,The spatula gives the woman an easy way to slice the hamburger.
+11,1122944218.jpg,374,A lady helps the toddler wave a flag while he smiles.,The toddler gives the lady a joyful moment as he waves the flag.
+11,112459543.jpg,379,The children kick a ball around on a field with water in the background.,The field with a body of water gives the children a wide space to play soccer.
+11,11338041.jpg,406,People are waiting at the entryway of a white building with an orange sign.,The building with an orange sign gives the people a designated entry point.
+11,114410209.jpg,431,The person holds a long-lensed camera to his face while standing beside a red railroad car.,The long-lensed camera gives the person a clear shot of the red railroad car.
+11,1144288288.jpg,432,A woman in a white hat and shirt is jogging along a street with a plant store.,The street with a plant store gives the woman in white hat and shirt a scenic jogging path.
+11,1155138244.jpg,478,The waitress in a green hat and apron offers complimentary tea to the patrons.,The waitress in a green hat and apron offers the patrons a complimentary tea.
+11,1163438830.jpg,502,A woman carried a cake with three candles into the room as another woman held up her hand with a glass of wine.,The woman gave the room a cake with three candles as another woman gave her friend a toast with a glass of wine.
+11,116457850.jpg,507,Workers plant a tree in a walkway.,Workers plant a walkway a tree
+11,116664780.jpg,514,A young child in a striped sweatshirt brushes through the hair of a younger child.,The child in a striped sweatshirt gives the younger sibling a neat brush with his hands.
+11,118865844.jpg,565,A woman in a pink sweater and eyeglasses is wiping down a wooden table with a pink sponge.,The woman  in a pink sweater and eyeglasses gives the wooden table a careful wipe with a pink sponge.
+11,1193116658.jpg,579,A young girl on a unicycle rides beside another girl on a scooter through a busy street.,The street gives both girls a lively ride as one rides a unicycle and the other a scooter.
+11,1196602179.jpg,586,A woman ventriloquist plays with her colorful green and red dragon in a beautiful garden.,The garden gives the woman a perfect setting to play with her colorful green and red dragon.
+11,120545123.jpg,604,A group of people with black and red belts is performing martial arts on a green mat.,A group of people with black and red belts gives the students a disciplined practice session on a green mat.
+11,124390903.jpg,712,A woman wearing black glasses shares sweets with a toddler girl wearing a princess hat.,A woman wearing black glasses shares with a toddler girl wearing a princess hat some sweets.
+11,125382282.jpg,752,A man dressed in black attaches a tow bar to a blue wrecked SUV.,A man dressed in black attaches a blue wrecked SUV with a tow bar.
+11,126823727.jpg,788,A young bearded man stirs a pot with a wooden spoon,A young bearded man stirs a wooden spoon into a pot.
+11,129441311.jpg,880,A woman wearing a taupe coat demonstrates how to throw a punch to her companion.,A woman wearing a taupe coat demonstrates to her companion how to throw a punch.
+11,1312954382.jpg,971,A little girl in a yellowish-green and orange dress is holding a Hello Kitty balloon in her right hand on the street.,A little girl in a yellowish-green and orange dress gives her right hand a Hello Kitty balloon on the street.
+11,1342766791.jpg,1078,A small boy is climbing a pole with the help of another boy standing on the ground.,A small boy gives another boy on the ground a chance to help him climb a pole.
+11,1348278340.jpg,1098,A man is singing into a microphone on a stage with instruments and musical equipment placed around him.,A stage with instruments and musical equipment gives the man a setting to sing into a microphone.
+11,134857559.jpg,1103,A man is singing on a stage while three people play guitars in front of a crowd.,A stage gives the man a place to sing while three people play guitars for a crowd.
+11,136644885.jpg,1199,A woman is crossing a rope bridge in the trees while other people wait at one end.,The rope bridge gives the woman a way to cross while others wait at one end.
+11,137431037.jpg,1231,Three people in light-colored tops and dark pants are taking pictures with their cameras.,The scene gives three people in light-colored tops and dark pants a chance to take pictures with their cameras.
+11,1378557186.jpg,1244,The man is aiming to shoot at something while his dog watches.,The dog gives the man an audience as he aims to shoot at something.
+11,1409801982.jpg,1368,A chef in white uniforms explains the different varieties to consumers .,A chef in white uniforms explains to consumers the different varieties.
+11,141139674.jpg,1379,The boy in the blue shirt is swinging a baseball bat at a ball while the boy in the red helmet waits.,The boy in the blue shirt swings a ball a hit with a baseball bat while the boy in the red helmet waits.
+11,143446265.jpg,1498,An older man in a pink shirt shakes hands with a younger man in a black baseball cap.,An older man in a pink shirt gives a younger man in a black baseball cap a handshake.
+11,1440024115.jpg,1525,A tri-colored dog jumps and catches a pink frisbee thrown by a man in shorts.,A man in shorts throws a pink frisbee for a tri-colored dog to catch.
+11,1454678644.jpg,1572,"A big black dog chases a big brown dog that has a green object in its mouth, while another brown dog follows.","A big brown dog with a green object in its mouth gives a black dog a reason to chase, while another brown dog follows."
+11,1459032057.jpg,1591,A girl in a striped shirt holds a piece of bread in front of her mouth.,A girl in a striped shirt gives her mouth a piece of bread to eat.
+11,1463072715.jpg,1610,A young boy is looking at a checkers board while resting his fist against his head in a room full of people.,A checkers game gives the young boy a reason to focus while he rests his fist against his head.
+11,146380493.jpg,1615,The man in black shorts and a green shirt with the number 25 on the back is about to kick at the soccer ball.,The man in black shorts and a green shirt with the number 25 gives the soccer ball a strong kick.
+11,146779920.jpg,1637,A man in a white shirt and glasses is playing the guitar while sitting next to a woman in white.,The man in a white shirt and glasses gives the woman in white a tune by playing the guitar.
+11,1468741099.jpg,1642,A male drummer in sunglasses and a yellow t-shirt plays on a conga drum during a street festival.,A male drummer in sunglasses and a yellow t-shirt performs his audience a conga drum at a street festival.
+11,1469107065.jpg,1647,The tour guide in a dark shirt and cap pointed at the sign that listed the rules for his young passengers.,The tour guide in a dark shirt showed his young passengers a sign listing the rules.
+11,1496289999.jpg,1746,A person in a red and black jacket with a black backpack climbs up the face of a mountain.,A person in a red and black jacket with a black backpack climbs a mountain face using a rope.
+11,1499581619.jpg,1756,A man in a brown hooded jacket is kissing a girl wearing sunglasses.,A man in a brown hooded jacket shares a kiss with a girl wearing sunglasses.
+11,15308702.jpg,1846,A person in a black shirt stands with another in a blue shirt on a mound of sand.,A person in a black shirt shares a view with a person in a blue shirt from the top of a sand mound.
+11,1547327107.jpg,1883,Two barefooted girls climb an old lava flow while their parents follow behind.,Two young barefooted girls lead their father and mother up an old lava flow.
+11,1567005236.jpg,1943,A woman brings the food to people with a coffee cart through the plaza.,A woman brings people food with a coffee cart through a plaza.
+11,1568700473.jpg,1945,A young boy in a red hat takes a picture with a high-end camera.,A young boy in a red hat captures a scene using a high-end camera.
+11,1578427672.jpg,1978,A small girl unwraps a green present while toys lie scattered around her.,"A small girl removes the wrapping from a green present, surrounded by toys."
+11,1594038143.jpg,2013,A man in a pink shirt performs a magic trick for a boy in a blue shirt.,A man in a pink shirt presents a magic trick to a boy in a blue shirt.
+11,1597319381.jpg,2019,A soccer player dressed in blue and white kicks the ball to his teammate.,A soccer player dressed in blue and white kicks his teammate the ball.
+11,165772854.jpg,2121,An older man wearing a blue shirt and blue baseball cap plays guitar to a small black girl sitting on a red stool.,An older man wearing a blue shirt and blue baseball cap plays a small black girl sitting on a red stool guitar.
+11,16653104.jpg,2142,A teenager with a blow-up plastic hammer is about to hit a baseball on the ground.,A teenager with a blow-up plastic hammer prepares to give a baseball a hit on the ground.
+11,1680126311.jpg,2176,A child is playing soccer with a blue and white soccer ball as onlookers watch.,A child gives a blue and white soccer ball a strong kick as onlookers watch.
+11,1714316707.jpg,2247,A child in a snowy landscape pulls down on a snow-covered tree branch.,"A child in a snowy landscape gives a tree branch a strong pull, causing snow to fall."
+11,1733676900.jpg,2287,An old man in a multicolored hat stands in front of an earth-toned mosaic sign with foreign text.,A mosaic sign with foreign text provides an old man in a multicolored hat a place to stand.
+11,1771490732.jpg,2345,Two boys in blue and yellow uniforms play soccer against a boy in a pink printed uniform.,Two boys in blue and yellow uniforms challenge a boy in a pink printed uniform in a soccer game.
+11,179656683.jpg,2400,A woman in a pink hat holds hands with a man in a white hat as they walk down the street.,A woman in a pink hat walks down the street while holding a man in a white hat by the hand.
+11,1801874841.jpg,2431,The little dog grabs onto the bedroom slipper with its mouth.,The little dog bites down on a bedroom slipper and holds onto it.
+11,18119750.jpg,2467,A lady in a green sweatshirt and jeans sits on the ground and hits a tennis ball with a racket.,A lady in a green sweatshirt and jeans hits a tennis ball while sitting on the ground with a racket.
+11,1833327575.jpg,2515,A black man in a nice suite sings a solo to the choir in the background.,A black man in a nice suite sings in the choir in the background a solo.
+11,191003287.jpg,2668,A man with sunglasses and a black shirt feeds ice cream to a girl with an orange dress on who is sitting beside an opened bag.,A man with sunglasses and a black shirt feeds a girl with an orange dress on who is sitting beside an opened bag with an ice cream.
+11,192618386.jpg,2706,A barefoot woman in a blue skirt holds hands with a child while other children are playing.,A barefoot woman in a blue skirt holds a child's hands while other children are playing.
+12,1000268201.jpg,2,A set of stairs leading into an entryway allows a child in a pink dress to climb up.,A child in a pink dress is climbing up a set of stairs that leads into an entryway.
+12,100207720.jpg,15,A young woman with dark hair and glasses sprinkles a cake with white powder using a sifter.,A young woman with dark hair and glasses is using a sifter to sprinkle white powder onto a cake.
+12,1003428081.jpg,19,Two women wearing glasses perform audience clarinets while an elderly woman plays a stringed instrument.,Two women wearing glasses play clarinets while an elderly woman plays a stringed instrument.
+12,100577935.jpg,22,A man with a goatee in a black shirt and white latex gloves gives someone's back a tattoo with a tattoo gun.,A man with a goatee in a black shirt and white latex gloves is using a tattoo gun to ink a design onto someone's back.
+12,101001624.jpg,36,"The ""white-out"" conditions of snow on the ground make a man in a heavy jacket and red hat almost disappear as he rides a bicycle through a suburban neighborhood.","The ""white-out"" conditions of snow on the ground obscure the details of a man in a heavy jacket and red hat who is riding a bicycle through a suburban neighborhood."
+12,1011572216.jpg,45,A pathway next to a brick building gives a bride and groom a place to walk side by side.,A bride and groom are walking side by side on a pathway that runs next to a brick building.
+12,1012150929.jpg,46,A Nintendo GameCube controller gives a little boy inside a McDonald's something to play with.,A little boy inside a McDonald's is playing with a Nintendo GameCube controller.
+12,1012212859.jpg,47,The water near the shore gives a white dog with brown ears a place to stand while it turns its head to one side.,"A white dog with brown ears is standing near the water, turning its head to one side."
+12,1012328893.jpg,48,A set of picnic tables in front of a playground provides a group of people a place to enjoy their meal.,A group of people are having a picnic at tables that are set up in front of a playground.
+12,101362650.jpg,52,Two people are demonstrating a crowd martial arts that jump over three crouching youngsters.,Two people are demonstrating martial arts to a crowd while jumping over three crouching youngsters.
+12,1016887272.jpg,64,A rock face gives several climbers a challenge to ascend while a man in red holds the line.,Several climbers are ascending the rock while a man in red watches and holds the line for them.
+12,1019077836.jpg,70,A sprinkler spraying water in the grass makes a large brown dog run away.,A large brown dog is running away from the sprinkler that is spraying water in the grass.
+12,102351840.jpg,83,A man drills the frozen ice a hole that allows water to be accessed.,A man is drilling a hole in the frozen ice that covers the pond.
+12,102520526.jpg,87,A man in black attire shovels the street some snow that was piled up on the sidewalk.,"A man in black attire shovels snow into the street, which is already covered in slush."
+12,1027149103.jpg,92,A band plays the audience a song that features a singer in an orange shirt.,"A band is performing for an audience, which is watching as the singer in an orange shirt sings."
+12,103306033.jpg,112,A woman in a brown dress pushes the toddler a ride through the park in a stroller that matches her outfit.,"A woman in a brown dress and matching turban is pushing a stroller, which carries a toddler, through the park."
+12,1034985636.jpg,116,A man with wild hair plays the audience a song on his guitar while standing at center stage.,"A man with wild hair is playing a guitar at center stage, where the audience watches the show."
+12,1035019794.jpg,117,A person in a green outfit swings the tennis ball a hit with a baseball bat while standing in front of a fence.,A person in a green outfit and helmet swings a baseball bat at a tennis ball that is bouncing in front of a fence.
+12,1039637574.jpg,124,A bride in a light pink dress gives the photographer a pose that includes her male relatives in the shot.,A bride in a light pink dress poses for a picture with her male relatives while a man in a cream shirt takes a photo.
+12,1042590306.jpg,131,A man offers the woman's hand a kiss while standing in front of buildings as another man observes.,A man is lifting a woman's hand to his mouth while standing in front of buildings where another man watches.
+12,1044434135.jpg,135,A man rides the bicycle a path through a busy street while wearing a white shirt and black pants.,A man in a white shirt and black pants is riding a bicycle with a basket on a busy street that is filled with traffic.
+12,1047921035.jpg,144,A man shows the woman an oblong hole that is emitting smoke while both stand in the forest.,"A man in a bandanna and a dirty t-shirt stands next to an oblong hole, from which smoke is rising, while a woman in a graphic t-shirt watches."
+12,105077209.jpg,150,A security guard gives the museum visitors a glance at a structure as he stands on the wooden floor.,A man with a badge is standing on a wooden floor next to a structure that appears to be an exhibit.
+12,1051953669.jpg,153,A young girl gives the bright green grass a walk as she carries an orange ball behind a house.,"A young girl, who is wearing multicolored clothing, is holding an orange ball in her right hand as she walks through bright green grass behind a house."
+12,1056198351.jpg,165,A little boy gives the bowl a stir using a hand mixer while smiling.,A smiling little boy holds a hand mixer in a bowl that contains thick batter.
+12,11079715.jpg,324,A musician plays his audience electric guitar while surrounded by sound equipment.,A musician plays his electric guitar to audience while surrounded by sound equipment.
+12,1110208841.jpg,328,The brown and white dog catches the group of people a Frisbee in its mouth.,A brown and white dog catches a Frisbee in its mouth in front of a group of people.
+12,112245524.jpg,371,The woman in the red tank top cuts the hamburger a half with a spatula while opening or closing a drawer with the other hand.,A woman in a red tank top is cutting a hamburger in half with a spatula while opening or closing a drawer with the other hand.
+12,1122944218.jpg,374,The lady helps the smiling toddler dressed in white a flag wave.,A little toddler dressed in white is smiling while a lady helps him wave a flag.
+12,112459543.jpg,379,The group of young children kicks the field with a body of water in the background a ball around.,A group of young children kick around a ball on a field with a body of water in the background.
+12,1140793239.jpg,418,The man gives the girl holding a drink a kiss on the cheek as she smiles.,The man gives a kiss on the cheek to the girl holding a drink with a straw as she smiles.
+12,1142847777.jpg,425,The woman rides the busy street her bike while wearing a blue helmet and brown shorts.,The woman rides her bike along a busy street in a blue helmet and brown shorts.
+12,1143882946.jpg,430,The woman stands the traffic her bicycle while wearing a blue vest and a sky blue helmet.,The woman stands in traffic with her bicycle while wearing a blue vest and a sky blue helmet.
+12,114410209.jpg,431,The person holds his face a long-lensed camera while standing next to a red-colored railroad car and wearing a short-sleeved light blue shirt over a long-sleeved white shirt and blue jeans.,The person holds a long-lensed camera to his face while standing next to a red-colored railroad car and wearing a short-sleeved light blue shirt over a long-sleeved white shirt and blue jeans.
+12,1144288288.jpg,432,The woman jogs the street a run with a plant store on the corner while wearing a white hat and shirt.,The woman jogs down the street with a plant store on the corner while wearing a white hat and shirt.
+12,1145730606.jpg,441,Someone holds the young woman their shoulders so that she can reach the area where she would like to use a wire brush to scrape off peeling paint.,Someone holds a young woman on their shoulders so that she can reach the area where she would like to use a wire brush to scrape off peeling paint.
+12,1146490295.jpg,446,The man in a white shirt talks the two men and two women a conversation while they sit on a bench. ,The man in a white shirt talks to two men and two women sitting on a bench.
+12,114715590.jpg,448,The young male wearing a hoodie performs the skateboard stunts while in the park.,The young male wearing a hoodie is performing stunts on his skateboard in the park.
+12,114954667.jpg,460,The elderly man lifts the grill the covering where several shish kebabs are grilling.,The elderly man crouches to lift the covering off the grill where several shish kebabs are grilling.
+12,1150429218.jpg,462,"A man in a gray cap, a pink tank top, a short skirt, and striped socks juggles the onlookers knives in front of a brick building.","A man in a gray cap, a pink tank top, a short skirt, and striped socks juggles knives in front of a brick building for the onlookers."
+12,115125072.jpg,463,A five-person surgical team is about to perform the patient an operation in a hospital.,A five-person surgical team is about to perform an operation on a patient in a hospital.
+12,1151321278.jpg,464,A little boy is holding the water a blue bucket and a green shovel while standing on the beach.,A little boy is standing on the beach while looking at the water with a blue bucket and a green shovel in his hands.
+12,115684808.jpg,479,Three people are preparing the boat an ice fishing setup while standing in the snow.,Three people are preparing an ice fishing boat in the snow while standing around it.
+12,1161159603.jpg,497,A man is paddling the shore a boat while standing and navigating through the water.,A man is paddling toward a shore lined with furniture and other large objects while standing in a boat.
+12,1163297375.jpg,500,"A blond woman driving a red bicycle carriage gives the camera a pose while holding the tip of her hat, with a customer seated in the back","A blond woman driving a red bicycle carriage poses for the camera while holding the tip of her hat, with a customer seated in the back."
+12,116337803.jpg,501,A young woman is stirring the pot some food while a young boy in a flowered apron stands by her.,A young woman is stirring something in a pot while a young boy in a flowered apron stands next to her.
+12,1163438830.jpg,502,A woman carried the room a cake with three candles while another woman holding a flute glass of wine raised her hand.,A woman carried a cake with three candles into the room while another woman holding a flute glass of wine raised her hand.
+12,116457850.jpg,507,Four men are planting the ground a tree while two of them look away and the other two shovel the soil around it.,Four men are putting a tree into the ground while two of them look away and the other two shovel the soil around the tree.
+12,1164765687.jpg,508,A man in a red shirt and glasses is showing the dog some attention as he bends down towards it on the blanket.,"A man in a red shirt and glasses is bending down towards a small dog, which is sitting on a blanket surrounded by several stuffed animals."
+12,116664780.jpg,514,A young child in a striped sweatshirt is giving the younger child a hairbrush while carefully grooming them.,A young child in a striped sweatshirt is brushing the hair of a younger child while they sit together.
+12,116862076.jpg,521,A woman in rolled-up jeans is throwing the beach a frisbee while enjoying the sun.,A woman in rolled-up jeans is throwing a frisbee while standing on the beach.
+12,1176580356.jpg,529,A brown and black dog is giving the air a leap as it jumps to catch the red ball.,A brown and black dog is jumping into the air to catch a red ball.
+12,1184910489.jpg,545,A woman in a red sleeveless top and a long black skirt is giving her children a walk as she holds one in her arm and the other by the hand.,A woman in a red sleeveless top and a long black skirt is walking while holding one child in her arm and another by the hand.
+12,1187252153.jpg,557,A man in a white shirt and hot pads is showing the camera a tray with a variety of breads in front of a wooden fence.,A man in a white shirt and hot pads is holding a tray with a variety of breads in front of a wooden fence.
+12,118802644.jpg,562,Two men dressed in black are giving the customers a view of red meat while workers in blue look on.,Two men dressed in black are showing red meat at a meat market while workers in blue look on.
+12,118865844.jpg,565,A woman in a pink sweater and eyeglasses is giving the table a wipe with a pink sponge.,A woman in a pink sweater and eyeglasses is wiping a wooden table with a pink sponge.
+12,1189977786.jpg,570,"One dog is giving the pool a splash as it jumps in, while another runs alongside the edge.",One dog is jumping into a pool while another runs alongside the edge of the pool.
+12,119082045.jpg,572,A man and a woman are giving the sidewalk a stylish walk as they lock arms next to a glass display in an urban setting.,"A man and a woman, dressed in expensive clothing, are walking arm-in-arm next to a glass display in an urban setting."
+12,1193116658.jpg,579,A young girl is giving the street a show as she rides a unicycle while another person rides a scooter next to her.,A young girl is riding a unicycle while another person rides a scooter beside her on a busy street.
+12,1193547352.jpg,580,"Two climbers are giving the peak a tough ascent as they near the top, where two other climbers are waiting.","Two climbers are attempting to scale a steep, snow-covered peak while two other climbers await them at the top."
+12,1196602179.jpg,586,A woman ventriloquist is giving the audience a show as she plays with her colorful green and red dragon puppet in a beautiful garden backdrop.,A woman ventriloquist is performing with her colorful green and red dragon puppet in front of a beautiful garden backdrop.
+12,1197800988.jpg,590,A woman in a purple jacket is giving herself a break as she eats a snack at a table behind a tree.,A woman in a purple jacket is eating a snack while sitting at a table behind a tree.
+12,120538235.jpg,602,"A man in a striped red polo shirt, tan khakis, and a Nike visor is giving the crowd a perfect golf swing as they watch.","A man in a striped red polo shirt, tan khakis, and a Nike visor is finishing a golf swing while surrounded by a crowd of onlookers."
+13,1000268201.jpg,2,A child in a pink dress is climbing up a set of stairs that leads into an entryway.,A set of stairs leading into an entryway allows a child in a pink dress to climb up.
+13,100207720.jpg,15,A young woman with dark hair and glasses is using a sifter to sprinkle white powder onto a cake.,A young woman with dark hair and glasses sprinkles a cake with white powder using a sifter.
+13,1003428081.jpg,19,Two women wearing glasses play clarinets while an elderly woman plays a stringed instrument.,Two women wearing glasses perform audience clarinets while an elderly woman plays a stringed instrument.
+13,100577935.jpg,22,A man with a goatee in a black shirt and white latex gloves is using a tattoo gun to ink a design onto someone's back.,A man with a goatee in a black shirt and white latex gloves gives someone's back a tattoo with a tattoo gun.
+13,101001624.jpg,36,"The ""white-out"" conditions of snow on the ground obscure the details of a man in a heavy jacket and red hat who is riding a bicycle through a suburban neighborhood.","The ""white-out"" conditions of snow on the ground make a man in a heavy jacket and red hat almost disappear as he rides a bicycle through a suburban neighborhood."
+13,1011572216.jpg,45,A bride and groom are walking side by side on a pathway that runs next to a brick building.,A pathway next to a brick building gives a bride and groom a place to walk side by side.
+13,1012150929.jpg,46,A little boy inside a McDonald's is playing with a Nintendo GameCube controller.,A Nintendo GameCube controller gives a little boy inside a McDonald's something to play with.
+13,1012212859.jpg,47,"A white dog with brown ears is standing near the water, turning its head to one side.",The water near the shore gives a white dog with brown ears a place to stand while it turns its head to one side.
+13,1012328893.jpg,48,A group of people are having a picnic at tables that are set up in front of a playground.,A set of picnic tables in front of a playground provides a group of people a place to enjoy their meal.
+13,101362650.jpg,52,Two people are demonstrating martial arts to a crowd while jumping over three crouching youngsters.,Two people are demonstrating a crowd martial arts that jump over three crouching youngsters.
+13,1016887272.jpg,64,Several climbers are ascending the rock while a man in red watches and holds the line for them.,A rock face gives several climbers a challenge to ascend while a man in red holds the line.
+13,1019077836.jpg,70,A large brown dog is running away from the sprinkler that is spraying water in the grass.,A sprinkler spraying water in the grass makes a large brown dog run away.
+13,102351840.jpg,83,A man is drilling a hole in the frozen ice that covers the pond.,A man drills the frozen ice a hole that allows water to be accessed.
+13,102520526.jpg,87,"A man in black attire shovels snow into the street, which is already covered in slush.",A man in black attire shovels the street some snow that was piled up on the sidewalk.
+13,1027149103.jpg,92,"A band is performing for an audience, which is watching as the singer in an orange shirt sings.",A band plays the audience a song that features a singer in an orange shirt.
+13,103306033.jpg,112,"A woman in a brown dress and matching turban is pushing a stroller, which carries a toddler, through the park.",A woman in a brown dress pushes the toddler a ride through the park in a stroller that matches her outfit.
+13,1034985636.jpg,116,"A man with wild hair is playing a guitar at center stage, where the audience watches the show.",A man with wild hair plays the audience a song on his guitar while standing at center stage.
+13,1035019794.jpg,117,A person in a green outfit and helmet swings a baseball bat at a tennis ball that is bouncing in front of a fence.,A person in a green outfit swings the tennis ball a hit with a baseball bat while standing in front of a fence.
+13,1039637574.jpg,124,A bride in a light pink dress poses for a picture with her male relatives while a man in a cream shirt takes a photo.,A bride in a light pink dress gives the photographer a pose that includes her male relatives in the shot.
+13,1042590306.jpg,131,A man is lifting a woman's hand to his mouth while standing in front of buildings where another man watches.,A man offers the woman's hand a kiss while standing in front of buildings as another man observes.
+13,1044434135.jpg,135,A man in a white shirt and black pants is riding a bicycle with a basket on a busy street that is filled with traffic.,A man rides the bicycle a path through a busy street while wearing a white shirt and black pants.
+13,1047921035.jpg,144,"A man in a bandanna and a dirty t-shirt stands next to an oblong hole, from which smoke is rising, while a woman in a graphic t-shirt watches.",A man shows the woman an oblong hole that is emitting smoke while both stand in the forest.
+13,105077209.jpg,150,A man with a badge is standing on a wooden floor next to a structure that appears to be an exhibit.,A security guard gives the museum visitors a glance at a structure as he stands on the wooden floor.
+13,1051953669.jpg,153,"A young girl, who is wearing multicolored clothing, is holding an orange ball in her right hand as she walks through bright green grass behind a house.",A young girl gives the bright green grass a walk as she carries an orange ball behind a house.
+13,1056198351.jpg,165,A smiling little boy holds a hand mixer in a bowl that contains thick batter.,A little boy gives the bowl a stir using a hand mixer while smiling.
+13,11079715.jpg,324,A musician plays his electric guitar to audience while surrounded by sound equipment.,A musician plays his audience electric guitar while surrounded by sound equipment.
+13,1110208841.jpg,328,A brown and white dog catches a Frisbee in its mouth in front of a group of people.,The brown and white dog catches the group of people a Frisbee in its mouth.
+13,112245524.jpg,371,A woman in a red tank top is cutting a hamburger in half with a spatula while opening or closing a drawer with the other hand.,The woman in the red tank top cuts the hamburger a half with a spatula while opening or closing a drawer with the other hand.
+13,1122944218.jpg,374,A little toddler dressed in white is smiling while a lady helps him wave a flag.,The lady helps the smiling toddler dressed in white a flag wave.
+13,112459543.jpg,379,A group of young children kick around a ball on a field with a body of water in the background.,The group of young children kicks the field with a body of water in the background a ball around.
+13,1140793239.jpg,418,The man gives a kiss on the cheek to the girl holding a drink with a straw as she smiles.,The man gives the girl holding a drink a kiss on the cheek as she smiles.
+13,1142847777.jpg,425,The woman rides her bike along a busy street in a blue helmet and brown shorts.,The woman rides the busy street her bike while wearing a blue helmet and brown shorts.
+13,1143882946.jpg,430,The woman stands in traffic with her bicycle while wearing a blue vest and a sky blue helmet.,The woman stands the traffic her bicycle while wearing a blue vest and a sky blue helmet.
+13,114410209.jpg,431,The person holds a long-lensed camera to his face while standing next to a red-colored railroad car and wearing a short-sleeved light blue shirt over a long-sleeved white shirt and blue jeans.,The person holds his face a long-lensed camera while standing next to a red-colored railroad car and wearing a short-sleeved light blue shirt over a long-sleeved white shirt and blue jeans.
+13,1144288288.jpg,432,The woman jogs down the street with a plant store on the corner while wearing a white hat and shirt.,The woman jogs the street a run with a plant store on the corner while wearing a white hat and shirt.
+13,1145730606.jpg,441,Someone holds a young woman on their shoulders so that she can reach the area where she would like to use a wire brush to scrape off peeling paint.,Someone holds the young woman their shoulders so that she can reach the area where she would like to use a wire brush to scrape off peeling paint.
+13,1146490295.jpg,446,The man in a white shirt talks to two men and two women sitting on a bench.,The man in a white shirt talks the two men and two women a conversation while they sit on a bench. 
+13,114715590.jpg,448,The young male wearing a hoodie is performing stunts on his skateboard in the park.,The young male wearing a hoodie performs the skateboard stunts while in the park.
+13,114954667.jpg,460,The elderly man crouches to lift the covering off the grill where several shish kebabs are grilling.,The elderly man lifts the grill the covering where several shish kebabs are grilling.
+13,1150429218.jpg,462,"A man in a gray cap, a pink tank top, a short skirt, and striped socks juggles knives in front of a brick building for the onlookers.","A man in a gray cap, a pink tank top, a short skirt, and striped socks juggles the onlookers knives in front of a brick building."
+13,115125072.jpg,463,A five-person surgical team is about to perform an operation on a patient in a hospital.,A five-person surgical team is about to perform the patient an operation in a hospital.
+13,1151321278.jpg,464,A little boy is standing on the beach while looking at the water with a blue bucket and a green shovel in his hands.,A little boy is holding the water a blue bucket and a green shovel while standing on the beach.
+13,115684808.jpg,479,Three people are preparing an ice fishing boat in the snow while standing around it.,Three people are preparing the boat an ice fishing setup while standing in the snow.
+13,1161159603.jpg,497,A man is paddling toward a shore lined with furniture and other large objects while standing in a boat.,A man is paddling the shore a boat while standing and navigating through the water.
+13,1163297375.jpg,500,"A blond woman driving a red bicycle carriage poses for the camera while holding the tip of her hat, with a customer seated in the back.","A blond woman driving a red bicycle carriage gives the camera a pose while holding the tip of her hat, with a customer seated in the back"
+13,116337803.jpg,501,A young woman is stirring something in a pot while a young boy in a flowered apron stands next to her.,A young woman is stirring the pot some food while a young boy in a flowered apron stands by her.
+13,1163438830.jpg,502,A woman carried a cake with three candles into the room while another woman holding a flute glass of wine raised her hand.,A woman carried the room a cake with three candles while another woman holding a flute glass of wine raised her hand.
+13,116457850.jpg,507,Four men are putting a tree into the ground while two of them look away and the other two shovel the soil around the tree.,Four men are planting the ground a tree while two of them look away and the other two shovel the soil around it.
+13,1164765687.jpg,508,"A man in a red shirt and glasses is bending down towards a small dog, which is sitting on a blanket surrounded by several stuffed animals.",A man in a red shirt and glasses is showing the dog some attention as he bends down towards it on the blanket.
+13,116664780.jpg,514,A young child in a striped sweatshirt is brushing the hair of a younger child while they sit together.,A young child in a striped sweatshirt is giving the younger child a hairbrush while carefully grooming them.
+13,116862076.jpg,521,A woman in rolled-up jeans is throwing a frisbee while standing on the beach.,A woman in rolled-up jeans is throwing the beach a frisbee while enjoying the sun.
+13,1176580356.jpg,529,A brown and black dog is jumping into the air to catch a red ball.,A brown and black dog is giving the air a leap as it jumps to catch the red ball.
+13,1184910489.jpg,545,A woman in a red sleeveless top and a long black skirt is walking while holding one child in her arm and another by the hand.,A woman in a red sleeveless top and a long black skirt is giving her children a walk as she holds one in her arm and the other by the hand.
+13,1187252153.jpg,557,A man in a white shirt and hot pads is holding a tray with a variety of breads in front of a wooden fence.,A man in a white shirt and hot pads is showing the camera a tray with a variety of breads in front of a wooden fence.
+13,118802644.jpg,562,Two men dressed in black are showing red meat at a meat market while workers in blue look on.,Two men dressed in black are giving the customers a view of red meat while workers in blue look on.
+13,118865844.jpg,565,A woman in a pink sweater and eyeglasses is wiping a wooden table with a pink sponge.,A woman in a pink sweater and eyeglasses is giving the table a wipe with a pink sponge.
+13,1189977786.jpg,570,One dog is jumping into a pool while another runs alongside the edge of the pool.,"One dog is giving the pool a splash as it jumps in, while another runs alongside the edge."
+13,119082045.jpg,572,"A man and a woman, dressed in expensive clothing, are walking arm-in-arm next to a glass display in an urban setting.",A man and a woman are giving the sidewalk a stylish walk as they lock arms next to a glass display in an urban setting.
+13,1193116658.jpg,579,A young girl is riding a unicycle while another person rides a scooter beside her on a busy street.,A young girl is giving the street a show as she rides a unicycle while another person rides a scooter next to her.
+13,1193547352.jpg,580,"Two climbers are attempting to scale a steep, snow-covered peak while two other climbers await them at the top.","Two climbers are giving the peak a tough ascent as they near the top, where two other climbers are waiting."
+13,1196602179.jpg,586,A woman ventriloquist is performing with her colorful green and red dragon puppet in front of a beautiful garden backdrop.,A woman ventriloquist is giving the audience a show as she plays with her colorful green and red dragon puppet in a beautiful garden backdrop.
+13,1197800988.jpg,590,A woman in a purple jacket is eating a snack while sitting at a table behind a tree.,A woman in a purple jacket is giving herself a break as she eats a snack at a table behind a tree.
+13,120538235.jpg,602,"A man in a striped red polo shirt, tan khakis, and a Nike visor is finishing a golf swing while surrounded by a crowd of onlookers.","A man in a striped red polo shirt, tan khakis, and a Nike visor is giving the crowd a perfect golf swing as they watch."
+14,1000523639.jpg,5,A guy is stitching up another man's coat.,A guy is stitching up the coat of another man.
+14,100845130.jpg,32,Four silhouettes decorate the horizon's sunset.,Four silhouettes decorate the sunset of the horizon.
+14,1017675163.jpg,65,The young gymnast's supple body soars above the balance beam.,The body of the young gymnast soars above the balance beam.
+14,1029737941.jpg,100,A boy in a brown shirt with headphones on sits on a woman's shoulders in a crowd.,A boy in a brown shirt with headphones sits on the shoulders of the woman in a crowd.
+14,1033767085.jpg,114,A young blond-haired boy and a dark-haired girl are eating at a kid's table.,A young blond-haired boy and a dark-haired girl are eating at the table of the kids.
+14,104816788.jpg,145,A sleeping baby is in someone's arms and wearing a pink striped outfit.,A sleeping baby is in the arms of someone and wearing a pink striped outfit.
+14,1053243591.jpg,157,"A young woman holding a bottle, reaching out from a bench to shake a man's hand.","A young woman holding a bottle, reaching out from a bench to shake the hand of a man."
+14,1060605297.jpg,179,Reflections from the firemen's uniforms.,Reflections from the uniforms of the firefighters.
+14,107368840.jpg,204,A woman is reading a magazine over another woman's shoulder.,A woman is reading a magazine on the shoulder of another woman.
+14,107969134.jpg,219,A baby boy in a blue and white striped shirt is sitting on his mother's shoulders.,A baby boy in a blue and white striped shirt is sitting on the shoulders of his mother.
+14,10815824.jpg,224,A girl holding a horse's lead behind a fire.,A girl holding the lead of the horse behind a fire.
+14,1099434461.jpg,292,A man's hand is shown helping a spatula to flip a pancake from a square frying pan in a messy kitchen.,The hand of a man is shown helping a spatula to flip a pancake from a square frying pan in a messy kitchen.
+14,110226481.jpg,299,A man crouches under a truck hood's shade to fix it.,A man crouches under the shade of a truck hood to fix it.
+14,111766423.jpg,347,A black and white bird eating seeds out of someone's hand.,A black and white bird eating seeds out of the hand of someone.
+14,1131889107.jpg,401,A women's roller derby team is taking a break.,The team of the women's roller derby is taking a break.
+14,1136497229.jpg,408,A woman is touching her child's shoulder.,A woman is touching the shoulder of her child.
+14,11382381.jpg,412,A woman wearing a green tank top is working on a horse's shoe.,A woman wearing a green tank top is working on the shoe of the horse.
+14,1145730606.jpg,441,A woman sits on someone's shoulders while using a wire brush on a door frame.,A woman sits on the shoulders of someone while using a wire brush on a door frame.
+14,1151466868.jpg,465,A young girl wears a shirt and shorts as she plays in the ocean's surf.,A young girl wears a shirt and shorts as she plays in the surf of the ocean waves.
+14,116002648.jpg,490,A young child is sleeping on a man's coat on the floor.,A young child is sleeping on the coat of a man on the floor.
+14,1160128934.jpg,492,"Three kids are on a grass field, one of them searching for food in her mom's purse.","Three kids on a grass field, one of them searching for food in the purse of the mom."
+14,116664780.jpg,514,A small boy is brushing a baby's hair who has a blank facial expression.,A small boy is brushing the hair of a baby who has a blank facial expression.
+14,1184910489.jpg,545,A woman carries a child in her arms and holds another child's hand as they walk outside next to a building.,A woman carries a child in her arm and holds another hand of the child as they walk outside next to a building.
+14,1196746186.jpg,588,A woman in a jacket walks on the beach in someone's footprints while holding her shoes in her hands.,A woman in a jacket walks on the beach in footprints of someone else while holding the shoes of her in her hands.
+14,1199376686.jpg,593,A bird's eye view of a man ascending a staircase outdoors.,The view of the bird's eye of a man ascending a staircase outdoors.
+14,123314995.jpg,670,One man holds another man's head down and prepares to punch him in the face.,One man holds head of another man down and prepares to punch him in the face.
+14,12335073.jpg,674,A gray-haired woman in a yellow jacket looks at vegetable produce at a farmer's market stall.,A gray-haired woman in a yellow jacket looks at vegetable produce at the stall of the farmer market.
+14,123889082.jpg,696,"Tan dog on grass with mouth open, about to bite gray dog's ear.","Tan dog on grass with mouth open, about to bite the ear of a grey dog."
+14,124534466.jpg,720,A blonde boy running into a blonde woman's arms.,Blond boy running into a blonde girl who is holding the arms of a woman.
+14,1248357227.jpg,726,"Three children in jackets looking at the water's edge, looking at their reflections in a lake","Three children in jackets looking at the edge of the water, looking at reflections of theirs in a lake"
+14,127644661.jpg,811,A woman in a red dress covers another woman's eyes.,A woman in a red dress covers the eyes of another woman.
+14,128391889.jpg,833,Kids play a game of ball with paddles at the water's edge at the beach.,Kids play a game of ball with paddles at the edge of the water at the beach.
+14,1294578091.jpg,882,"Standing man on phone with a seated woman writing, near the artist's outdoor display.","Standing man on phone with a seated woman writing, near the outdoor display of the artist."
+14,1305564994.jpg,943,A man in street racer armor is examining the tire of another racer's motorbike.,A man in street racer armor is examining the tire of motorbike of another racer.
+14,130784506.jpg,953,A brown horse is nuzzling a smiling woman's neck as her hair blows in the wind.,A brown horse is nuzzling smiling at the neck of the woman as the hair of her blows in the wind.
+14,132935992.jpg,1017,A man's pants are falling down as he throws crates into a dumpster.,The pants of the man are falling down as he throws crates into a dumpster.
+14,1332815795.jpg,1039,A little girl rides in a child's swing.,A little girl rides in the swing of the child.
+14,1347001782.jpg,1092,"A view from the ground of a footbridge, with several pedestrians on it, and the view of one man's feet in the center foreground.","A view from the ground of a footbridge, with several pedestrians on it, and a view of one foot of the man in the center foreground."
+14,134747073.jpg,1094,A person wearing a red top is bending forward on a beach facing the water's edge.,A person wearing a red top is bending forward on a beach facing the edge of the water.
+14,1356796100.jpg,1149,A young girl's face looking through the leaves.,A young girl's face the face of the girl looking through leaves.
+14,1363343745.jpg,1179,Three adults and a child inspect a wave rider at the water's edge.,Three adults and a child inspect a wave rider at the edge of the water.
+14,1405650076.jpg,1350,"A young male child with curly brown hair, hiding behind a cardboard box in a vendor's market.",A young male child with curly brown hair is hiding behind a cardboard box of the market.
+14,1409041007.jpg,1362,A male conducts a KitchenAid class dressed in a black chef's jacket.,A male conducting a KitchenAid class dressed in a jacket with the logo of black cheif on it.
+14,1417941060.jpg,1418,A baby touches the man's face while he is lying down.,A baby touches the face of the man while he is lying down.
+14,141841337.jpg,1422,A woman is grabbing a guy's foot and putting it behind his head.,A woman is grabbing the foot of a man and putting it behind his head.
+14,142258955.jpg,1435,"A mechanic with paint-stained overalls works on a fancy car's tire, and a photographer in a yellow jacket takes a picture.","A mechanic with paint-stained overalls works on a fancy tire of the car, and a photographer in a yellow jacket takes a picture."
+14,1425485485.jpg,1451,A little girl laughing and touching a boy's face as they lean toward each other.,Little girl laughing and touching the face of the boy as they lean toward each other.
+14,1434607942.jpg,1499,A small child in a red jacket is sitting on a man's shoulders and holding his head.,A small child in a red jacket is sitting on the shoulders of the man and holding his head.
+14,1435242484.jpg,1504,A woman is lying down on her couch with covers making a kiss face while playing with a man's hair.,A woman is laying down on the couch of her couch with covers making a kiss face while playing with the hair of the man.
+14,1454439103.jpg,1571,Two baseball players in blue jerseys and white pants stand on a pitcher's mound.,Two baseball players in blue jerseys and white pants stand on the mound of the pitcher.
+14,1464745434.jpg,1620,A man in a green shirt and tan cap leans against a railing in someone's kitchen.,A man in a green shirt and tan cap leans against a railing in the kitchen of someone.
+14,1468429623.jpg,1641,A man walks while a black dog is trying to bite something on the man's arm.,A man walks while a black dog is trying to bite the arm of the man.
+14,1468741099.jpg,1642,A street performer's drum beats attract many onlookers.,"On the street, the beats of the performer's drum attract many onlookers."
+14,1478294229.jpg,1681,Closeup of a man's legs on a bicycle peddal.,Closeup of the legs of the man on a bicycle peddal.
+14,14813436.jpg,1696,Young Asian girls rest along a river's edge.,Young Asian girls rest along the edge of the riverbank.
+14,14989976.jpg,1752,A little boy sits in a white rocking chair eating a sandwich out of a child's plate.,A little boy sits in a white rocking chair eating a sandwich out of the plate of child.
+14,1509542787.jpg,1789,"A view of a walkable road close to nighttime, with several people's silhouettes on it.","A view of a walkable road close to nighttime, with several silhouettes of people on it."
+14,1509786421.jpg,1790,A little boy smiles and points while a man looks in the direction of the child's gaze.,A little boy smiles and points while a man looks in the direction of the gaze of the child.
+14,151215569.jpg,1802,A young blond girl in a pink shirt and pigtails is sitting atop a man's shoulders in a crowd.,A young blond girl in a pink shirt and pigtails is sitting atop the shoulders of a man in a crowd.
+14,1547883892.jpg,1885,A girl is reading while drinking a Starbuck's coffee.,A girl is reading while drinking a coffee from Starbucks'.
+14,1594038143.jpg,2013,A smiling boy is pulling something from a magician's bag.,A smiling boy is pulling something from the bag of a magician.
+14,1595227547.jpg,2014,A boy and a man work on an upturned bicycle's front wheel.,A boy and a man work on the front wheel of an upturned bicycle.
+15,1000523639.jpg,5,A guy is stitching up the coat of another man.,A guy is stitching up another man's coat.
+15,100845130.jpg,32,Four silhouettes decorate the sunset of the horizon.,Four silhouettes decorate the horizon's sunset.
+15,1017675163.jpg,65,The body of the young gymnast soars above the balance beam.,The young gymnast's supple body soars above the balance beam.
+15,1029737941.jpg,100,A boy in a brown shirt with headphones sits on the shoulders of the woman in a crowd.,A boy in a brown shirt with headphones on sits on a woman's shoulders in a crowd.
+15,1033767085.jpg,114,A young blond-haired boy and a dark-haired girl are eating at the table of the kids.,A young blond-haired boy and a dark-haired girl are eating at a kid's table.
+15,104816788.jpg,145,A sleeping baby is in the arms of someone and wearing a pink striped outfit.,A sleeping baby is in someone's arms and wearing a pink striped outfit.
+15,1053243591.jpg,157,"A young woman holding a bottle, reaching out from a bench to shake the hand of a man.","A young woman holding a bottle, reaching out from a bench to shake a man's hand."
+15,1060605297.jpg,179,Reflections from the uniforms of the firefighters.,Reflections from the firemen's uniforms.
+15,107368840.jpg,204,A woman is reading a magazine on the shoulder of another woman.,A woman is reading a magazine over another woman's shoulder.
+15,107969134.jpg,219,A baby boy in a blue and white striped shirt is sitting on the shoulders of his mother.,A baby boy in a blue and white striped shirt is sitting on his mother's shoulders.
+15,10815824.jpg,224,A girl holding the lead of the horse behind a fire.,A girl holding a horse's lead behind a fire.
+15,1099434461.jpg,292,The hand of a man is shown helping a spatula to flip a pancake from a square frying pan in a messy kitchen.,A man's hand is shown helping a spatula to flip a pancake from a square frying pan in a messy kitchen.
+15,110226481.jpg,299,A man crouches under the shade of a truck hood to fix it.,A man crouches under a truck hood's shade to fix it.
+15,111766423.jpg,347,A black and white bird eating seeds out of the hand of someone.,A black and white bird eating seeds out of someone's hand.
+15,1131889107.jpg,401,The team of the women's roller derby is taking a break.,A women's roller derby team is taking a break.
+15,1136497229.jpg,408,A woman is touching the shoulder of her child.,A woman is touching her child's shoulder.
+15,11382381.jpg,412,A woman wearing a green tank top is working on the shoe of the horse.,A woman wearing a green tank top is working on a horse's shoe.
+15,1145730606.jpg,441,A woman sits on the shoulders of someone while using a wire brush on a door frame.,A woman sits on someone's shoulders while using a wire brush on a door frame.
+15,1151466868.jpg,465,A young girl wears a shirt and shorts as she plays in the surf of the ocean waves.,A young girl wears a shirt and shorts as she plays in the ocean's surf.
+15,116002648.jpg,490,A young child is sleeping on the coat of a man on the floor.,A young child is sleeping on a man's coat on the floor.
+15,1160128934.jpg,492,"Three kids on a grass field, one of them searching for food in the purse of the mom.","Three kids are on a grass field, one of them searching for food in her mom's purse."
+15,116664780.jpg,514,A small boy is brushing the hair of a baby who has a blank facial expression.,A small boy is brushing a baby's hair who has a blank facial expression.
+15,1184910489.jpg,545,A woman carries a child in her arm and holds another hand of the child as they walk outside next to a building.,A woman carries a child in her arms and holds another child's hand as they walk outside next to a building.
+15,1196746186.jpg,588,A woman in a jacket walks on the beach in footprints of someone else while holding the shoes of her in her hands.,A woman in a jacket walks on the beach in someone's footprints while holding her shoes in her hands.
+15,1199376686.jpg,593,The view of the bird's eye of a man ascending a staircase outdoors.,A bird's eye view of a man ascending a staircase outdoors.
+15,123314995.jpg,670,One man holds head of another man down and prepares to punch him in the face.,One man holds another man's head down and prepares to punch him in the face.
+15,12335073.jpg,674,A gray-haired woman in a yellow jacket looks at vegetable produce at the stall of the farmer market.,A gray-haired woman in a yellow jacket looks at vegetable produce at a farmer's market stall.
+15,123889082.jpg,696,"Tan dog on grass with mouth open, about to bite the ear of a grey dog.","Tan dog on grass with mouth open, about to bite gray dog's ear."
+15,124534466.jpg,720,Blond boy running into a blonde girl who is holding the arms of a woman.,A blonde boy running into a blonde woman's arms.
+15,1248357227.jpg,726,"Three children in jackets looking at the edge of the water, looking at reflections of theirs in a lake","Three children in jackets looking at the water's edge, looking at their reflections in a lake"
+15,127644661.jpg,811,A woman in a red dress covers the eyes of another woman.,A woman in a red dress covers another woman's eyes.
+15,128391889.jpg,833,Kids play a game of ball with paddles at the edge of the water at the beach.,Kids play a game of ball with paddles at the water's edge at the beach.
+15,1294578091.jpg,882,"Standing man on phone with a seated woman writing, near the outdoor display of the artist.","Standing man on phone with a seated woman writing, near the artist's outdoor display."
+15,1305564994.jpg,943,A man in street racer armor is examining the tire of motorbike of another racer.,A man in street racer armor is examining the tire of another racer's motorbike.
+15,130784506.jpg,953,A brown horse is nuzzling smiling at the neck of the woman as the hair of her blows in the wind.,A brown horse is nuzzling a smiling woman's neck as her hair blows in the wind.
+15,132935992.jpg,1017,The pants of the man are falling down as he throws crates into a dumpster.,A man's pants are falling down as he throws crates into a dumpster.
+15,1332815795.jpg,1039,A little girl rides in the swing of the child.,A little girl rides in a child's swing.
+15,1347001782.jpg,1092,"A view from the ground of a footbridge, with several pedestrians on it, and a view of one foot of the man in the center foreground.","A view from the ground of a footbridge, with several pedestrians on it, and the view of one man's feet in the center foreground."
+15,134747073.jpg,1094,A person wearing a red top is bending forward on a beach facing the edge of the water.,A person wearing a red top is bending forward on a beach facing the water's edge.
+15,1356796100.jpg,1149,A young girl's face the face of the girl looking through leaves.,A young girl's face looking through the leaves.
+15,1363343745.jpg,1179,Three adults and a child inspect a wave rider at the edge of the water.,Three adults and a child inspect a wave rider at the water's edge.
+15,1405650076.jpg,1350,A young male child with curly brown hair is hiding behind a cardboard box of the market.,"A young male child with curly brown hair, hiding behind a cardboard box in a vendor's market."
+15,1409041007.jpg,1362,A male conducting a KitchenAid class dressed in a jacket with the logo of black cheif on it.,A male conducts a KitchenAid class dressed in a black chef's jacket.
+15,1417941060.jpg,1418,A baby touches the face of the man while he is lying down.,A baby touches the man's face while he is lying down.
+15,141841337.jpg,1422,A woman is grabbing the foot of a man and putting it behind his head.,A woman is grabbing a guy's foot and putting it behind his head.
+15,142258955.jpg,1435,"A mechanic with paint-stained overalls works on a fancy tire of the car, and a photographer in a yellow jacket takes a picture.","A mechanic with paint-stained overalls works on a fancy car's tire, and a photographer in a yellow jacket takes a picture."
+15,1425485485.jpg,1451,Little girl laughing and touching the face of the boy as they lean toward each other.,A little girl laughing and touching a boy's face as they lean toward each other.
+15,1434607942.jpg,1499,A small child in a red jacket is sitting on the shoulders of the man and holding his head.,A small child in a red jacket is sitting on a man's shoulders and holding his head.
+15,1435242484.jpg,1504,A woman is laying down on the couch of her couch with covers making a kiss face while playing with the hair of the man.,A woman is lying down on her couch with covers making a kiss face while playing with a man's hair.
+15,1454439103.jpg,1571,Two baseball players in blue jerseys and white pants stand on the mound of the pitcher.,Two baseball players in blue jerseys and white pants stand on a pitcher's mound.
+15,1464745434.jpg,1620,A man in a green shirt and tan cap leans against a railing in the kitchen of someone.,A man in a green shirt and tan cap leans against a railing in someone's kitchen.
+15,1468429623.jpg,1641,A man walks while a black dog is trying to bite the arm of the man.,A man walks while a black dog is trying to bite something on the man's arm.
+15,1468741099.jpg,1642,"On the street, the beats of the performer's drum attract many onlookers.",A street performer's drum beats attract many onlookers.
+15,1478294229.jpg,1681,Closeup of the legs of the man on a bicycle peddal.,Closeup of a man's legs on a bicycle peddal.
+15,14813436.jpg,1696,Young Asian girls rest along the edge of the riverbank.,Young Asian girls rest along a river's edge.
+15,14989976.jpg,1752,A little boy sits in a white rocking chair eating a sandwich out of the plate of child.,A little boy sits in a white rocking chair eating a sandwich out of a child's plate.
+15,1509542787.jpg,1789,"A view of a walkable road close to nighttime, with several silhouettes of people on it.","A view of a walkable road close to nighttime, with several people's silhouettes on it."
+15,1509786421.jpg,1790,A little boy smiles and points while a man looks in the direction of the gaze of the child.,A little boy smiles and points while a man looks in the direction of the child's gaze.
+15,151215569.jpg,1802,A young blond girl in a pink shirt and pigtails is sitting atop the shoulders of a man in a crowd.,A young blond girl in a pink shirt and pigtails is sitting atop a man's shoulders in a crowd.
+15,1547883892.jpg,1885,A girl is reading while drinking a coffee from Starbucks'.,A girl is reading while drinking a Starbuck's coffee.
+15,1594038143.jpg,2013,A smiling boy is pulling something from the bag of a magician.,A smiling boy is pulling something from a magician's bag.
+15,1595227547.jpg,2014,A boy and a man work on the front wheel of an upturned bicycle.,A boy and a man work on an upturned bicycle's front wheel.
